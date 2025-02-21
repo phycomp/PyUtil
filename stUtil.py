@@ -15,3 +15,24 @@ from streamlit import code as stCode
 
 def rndrCode(cntxtMsg):
   with stylable_container("codeblock", """code{white-space: pre-wrap !important;}"""): stCode(cntxtMsg) #cntnr.write([dsetDF])
+
+from st_aggrid import AgGrid, DataReturnMode, GridUpdateMode, GridOptionsBuilder, JsCode
+def mkGrid(dsetDF):
+  gb = GridOptionsBuilder.from_dataframe(dsetDF)
+  #gb.configure_pagination(paginationAutoPageSize=False, paginationPageSize=3)
+  gb.configure_pagination(enabled=True, paginationAutoPageSize=True, paginationPageSize=20) #
+  #toolTip = JsCode(""" function(params) { return '<span title="' + params.value + '">'+params.value+'</span>';  }; """) # if using with cellRenderer
+  gb.configure_columns(['annttInfo', 'outcome'], editable=True) #, cellRenderer=toolTip
+  #gb.configure_pagination(enabled=True, paginationPageSize=10)  #paginationAutoPageSize=True, pagination=true, 
+
+  #gridOptions = GridOptionsBuilder.from_dataframe(df)
+  #gridOptions.configure_column('Name', editable=False, cellRenderer=tooltipjs)
+  js = JsCode("""function(e) { let api = e.api;
+    let rowIndex = e.rowIndex;
+    let col = e.column.colId;
+    let rowNode = api.getDisplayedRowAtIndex(rowIndex);
+    console.log("column index: " + col + ", row index: " + rowIndex); };""")
+  gb.configure_grid_options(onCellClicked=js)
+  gb.configure_selection(selection_mode ='single')
+  grdOpt = gb.build()
+  return grdOpt
