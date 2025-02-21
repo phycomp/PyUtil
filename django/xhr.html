@@ -1,0 +1,12 @@
+<script>
+var xhr=new XMLHttpRequest()
+xhr.data_sent=function(url, data){
+        this.open('POST', url, true);
+        this.setRequestHeader('X-CSRFToken', '{{csrf_token}}');
+        this.send(data);
+        };
+function querySelector(ele){return document.querySelector(ele)}
+function ById(ID){return document.getElementById(ID)}
+function ByTagName(ID){return document.getElementsByTagName(ID)}
+function createElement(ele){return document.createElement(ele)}
+</script>
