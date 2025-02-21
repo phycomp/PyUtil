@@ -11,6 +11,8 @@ for file in argv[1:]:
     print(cmd)
     system(cmd)
 
+ffmpeg -i [input_file] -vcodec copy -an [output_file]
+ffmpeg -ss 00:00:10  -t 5 -i "video.mp4" -ss 0:00:01 -t 5 -i "music.m4a" -map 0:v:0 -map 1:a:0 -y out.mp4
 ffmpeg -i *_tile.png -r 10 -o result.mp4
 ffmpeg -i sample_video_ffmpeg.mp4 -vf ass=output_subtitle.ass output_ass.mp4
 ffmpeg -i ~/Downloads/yt1s.com\ -\ 祈禱\ 翁倩玉.mp4 -vf ass=prayer2.ass -y assPrayer2.mp4
