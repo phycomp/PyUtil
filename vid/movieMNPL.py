@@ -1,3 +1,79 @@
+def pic2Vid():
+  from moviepy.editor import ImageSequenceClip
+  from PIL import Image
+
+  thumbnail_dir = os.path.join(SAMPLE_OUTPUTS, "thumbnails")
+  output_video = os.path.join(SAMPLE_OUTPUTS, 'final_pic_to_vid.mp4')
+
+  this_dir = os.listdir(thumbnail_dir)
+  filepaths = [os.path.join(thumbnail_dir, fname) for fname in this_dir if fname.endswith("jpg")]
+
+  directory = {}
+  for root, dirs, files in os.walk(thumbnail_dir):
+      for fname in files:
+          filepath = os.path.join(root, fname)
+          try:
+              key = float(fname.replace(".jpg", ""))
+          except:
+              key = None
+          if key != None:
+              directory[key] = filepath
+
+  new_path = []
+  for k in sorted(directory.keys()):
+      filepath = directory[k]
+      new_path.append(filepath)
+    
+  clip = ImageSequenceClip(new_path, fps=5)
+  clip.write_videofile(output_video)
+
+
+from moviepy.video.VideoClip import DataVideoClip
+
+def data_to_frame(time):
+    xn = x + np.sin(2 * np.pi * time / 10.0)
+    yn = y + np.cos(2 * np.pi * time / 8.0)
+    p[0].set_data(xn, yn)
+    return mplfig_to_npimage(fig)
+
+times = np.arange(2341973, 2342373)
+clip = DataVideoClip(times, data_to_frame, fps=1) # one plot per second
+
+#final animation is 15 fps, but still displays 1 plot per second
+animation.write_videofile("test2.mp4", fps=15) 
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+from moviepy.video.io.bindings import mplfig_to_npimage
+import moviepy.editor as mpy
+
+fig = plt.figure()
+ax = plt.axes()
+x = np.random.randn(10, 1)
+y = np.random.randn(10, 1)
+p = plt.plot(x, y, 'ko')
+time = np.arange(2341973, 2342373)
+cache = {}
+
+def animate(t):
+    i = int(t)
+    if i in cache:
+        return cache[i]
+
+    xn = x + np.sin(2 * np.pi * time[i] / 10.0)
+    yn = y + np.cos(2 * np.pi * time[i] / 8.0)
+    p[0].set_data(xn, yn)
+    cache.clear()
+    cache[i] = mplfig_to_npimage(fig)
+    return cache[i]
+
+duration = len(time)
+fps = 15
+animation = mpy.VideoClip(animate, duration=duration)
+animation.write_videofile("test.mp4", fps=fps)
+
+#**********************************************************
 import os
 from moviepy.editor import AudioFileClip, VideoFileClip
 def mnplMovie():
