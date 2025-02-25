@@ -1,4 +1,4 @@
-import streamlit as st
+from streamlit import text_area, button, subheader, title, file_uploader as flUpldr
 import pandas as pd
 import pytesseract
 import pdf2image
@@ -8,6 +8,7 @@ import io
 import textract
 import spacy
 from transformers import pipeline
+from stUtil import rndrCode
 
 class DocumentExtractor:
     def __init__(self):
@@ -72,18 +73,18 @@ class DocumentExtractor:
 def main():
     st.title("多格式文件智能提取系統")
     extractor = DocumentExtractor()
-    uploaded_file = st.file_uploader("上傳文件", type=['pdf', 'pptx', 'png', 'jpg', 'txt'])
+    uploaded_file = flUpldr("上傳文件", type=['pdf', 'pptx', 'png', 'jpg', 'txt'])
 
     if uploaded_file:
       extracted_text = extractor.extract_text(uploaded_file) # 文字提取
-      st.text_area("提取文字", extracted_text, height=200)
+      text_area("提取文字", extracted_text, height=200)
 
-      if st.button("智能分析"): # 文本分析
+      if button("智能分析"): # 文本分析
         analysis = extractor.analyze_text(extracted_text)
-        st.subheader("分析結果")
-        st.write("實體識別:", analysis['entities'])
-        st.write("關鍵詞:", analysis['keywords'])
-        st.write(f"文檔類型: {analysis['top_category']} (信心度: {analysis['confidence']:.2%})")
+        subheader("分析結果")
+        rndrCode("實體識別:", analysis['entities'])
+        rndrCode("關鍵詞:", analysis['keywords'])
+        rndrCode(f"文檔類型: {analysis['top_category']} (信心度: {analysis['confidence']:.2%})")
 
 if __name__ == "__main__":
     main()
