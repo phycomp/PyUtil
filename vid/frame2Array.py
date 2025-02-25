@@ -1,3 +1,30 @@
+from numpy import empty as npEmpty
+frames = npEmpty(shape=(160 * 120, 152, 360, 3), dtype=np.float32)
+from os import listdir
+from cv2 import VideoCapture
+
+for file in listdir(directory):
+    if file.endswith(".flv"):
+        file_path = os.path.join(directory, file)
+        nr_file = nr_file + 1
+        print('File '+str(nr_file)+' of '+str(nb_files_in_dir)+' files: '+file_path)
+
+        # Create a VideoCapture object and read from input file
+        # If the input is the camera, pass 0 instead of the video file name
+        cap = VideoCapture(file_path)
+
+        # Check if camera opened successfully
+        if cap.isOpened() == False:
+            print("Error opening video stream or file")
+        ret=True
+        while ret:   #cap.isOpened() Read until video is completed
+            ret, frame = cap.read() # Capture frame-by-frame
+            if ret:
+                # frames.append(frame.astype('float32')/255.)
+                frames[nr_frame, :, :, :]=frame.astype('float32')/255.
+                nr_frame += 1
+                nb_frames_in_file += 1
+
 '''
 A regular image is represented as a 3D Tensor with the following shape: (height, width, channels). The channels value 3 if the image is RGB and 1 if it is grayscale.
 
