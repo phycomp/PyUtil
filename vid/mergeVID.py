@@ -15,6 +15,12 @@ for vid in FILEs:
 #ffmpeg -i original.ts -i converted.mp4 -c:v copy -c:a copy -map 1:v -map 0:a:0 -map 0:a:1 output.mp4
 #cnctMKV='ffmpeg -f concat -safe 0 -i allMKV -c copy output.mkv' #需要先準備檔列表
 #print([f"{vid}" for vid in VIDs])
+***********************  merge *************************
+ffmpeg -i ~/神奇的天路.mkv -c copy -bsf:v h264_mp4toannexb -an -f mpegts -y tmp2.ts
+ffmpeg -ss 00:00:00.33 -i tmp2.ts -f concat -i aa -c:v copy -y -shortest merge.mp4
+需要準備mp3的文字檔
+
+
 #allMergeTS='|'.join([vid for vid in VIDs]) #'"{}"' 
 #mergeTS, allMerge='allMerge.ts', 'allMerge.mp4'
 #cmd=f'cat {allMergeTS}> {mergeTS}'
