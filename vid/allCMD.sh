@@ -24,3 +24,16 @@ ffmpeg -i 揚帆.mp4 -ss 00:00:02.00 -t 262 -an -y 白天光明現noLyrics2.ts
 ffmpeg -i ../以天心為己心.mkv -c copy -bsf:v h264_mp4toannexb -f mpegts -an -y 以天心為己心.ts
 ffmpeg -i 世界名勝風景.ts -ss 00:05:00.00 -t 240 -y 我和諸佛有個約章noLyrics.ts
 ffmpeg -i 薪傳demo2.ts -i /home/josh/Downloads/感恩不休息菩薩成道十週年音樂 紀念專輯-薪傳.mp3 -vf ass=~/todos/回顧/薪傳.ass -shortest -y 薪傳demo2.mp4
+
+
+ffmpeg -i todos/世界名勝風景-TlD6zY3udmw.mkv -c copy -bsf:v h264_mp4toannexb -f mpegts -y 世界名勝風景.ts
+file 世界名勝風景.ts
+smplayer 世界名勝風景.ts
+ffmpeg -i 世界名勝風景.ts -t 310 薪傳.ts
+smplayer 薪傳.ts
+ffmpeg -i 薪傳.ts -i /home/josh/Downloads/感恩不休息菩薩成道十週年音樂紀念專輯-薪傳.mp3 薪傳.mkv
+ffmpeg -i 薪傳.ts -i /home/josh/Downloads/感恩不休息菩薩成道十週年音樂紀念專輯-薪傳.mp3 -shortest 薪傳.mkv
+
+ffmpeg -i 世界名勝風景.ts -t 310 薪傳.ts
+ffmpeg -i 薪傳noAudio.ts -f concat -i Downloads/感恩不休息菩薩成道十週年音樂紀念專輯-薪傳.mp3 -c:v copy -y -shortest 薪傳.mp4
+ffmpeg -i 薪傳noAudio.ts -i Downloads/感恩不休息菩薩成道十週年音樂紀念專輯-薪傳.mp3 -c:v copy -y -shortest 薪傳.mp4
