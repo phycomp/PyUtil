@@ -19,3 +19,8 @@ ffmpeg -f image2 -r 60 -i path/filename%03d.jpg -vcodec libx264 -crf 18  -pix_fm
 ffmpeg -r 1/5 -i %03d.jpg -c:v libx264 -r 30 -y -pix_fmt yuv420p slide.mp4
 ffmpeg -i slide.mp4 -y -vf fade=in:0:30 slideFadein.mp4
 ffmpeg -i slideFadein.mp4 -y -vf fade=out:120:30 slideFadeout.mp4
+#*****************  作影片範例  ************************
+ffmpeg -i 揚帆.mp4 -ss 00:00:02.00 -t 262 -an -y 白天光明現noLyrics2.ts
+ffmpeg -i ../以天心為己心.mkv -c copy -bsf:v h264_mp4toannexb -f mpegts -an -y 以天心為己心.ts
+ffmpeg -i 世界名勝風景.ts -ss 00:05:00.00 -t 240 -y 我和諸佛有個約章noLyrics.ts
+ffmpeg -i 薪傳demo2.ts -i /home/josh/Downloads/感恩不休息菩薩成道十週年音樂 紀念專輯-薪傳.mp3 -vf ass=~/todos/回顧/薪傳.ass -shortest -y 薪傳demo2.mp4
