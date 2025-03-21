@@ -287,7 +287,7 @@ kk   竹
 ,oj  可
 ,/\  尤
 \i   式
-\/   戈
+,\/  戈
 \t   戎
 \h   戒
 iq   旨
@@ -385,8 +385,8 @@ zr   見
 zrm  買
 qn   里
 
-l/.  丸
-l/   九
+\/.  丸
+\/   九
 re   儿
 rj   几
 r.   凡
@@ -1375,7 +1375,7 @@ hqq  曹
 hne  期
 tey  某
 wve  業
-h'a  欺
+he'  欺
 t'a  歎
 toe  燕
 hvl  甚
@@ -2606,7 +2606,7 @@ oj.  吋
 oj\  吒
 oaz  吟
 oa.  吠
-op\  吧
+oql  吧
 oad  吩
 oft  听
 o.r  吭
@@ -2625,7 +2625,7 @@ ofp  呃
 o/n  呈
 op\  呎
 oma  呐
-op\  呢
+op/  呢
 osd  呦
 ofs  呱
 ojo  呵
@@ -2673,7 +2673,7 @@ osk  唉
 oxf  唏
 oeo  唔
 oqs  唧
-oir  唬
+oif  唬
 o/.  唯
 oqq  唱
 o/p  唳
@@ -2683,11 +2683,11 @@ o/t  唾
 omn  啁
 oen  啃
 o,z  啄
-ob,  啊
+obj  啊
 odk  啕
 oww  啖
 o'u  啗
-ovv  啜
+oxx  啜
 oee  啡
 okb  啣
 ob/  啤
@@ -2789,7 +2789,7 @@ orr  嚶
 o.b  嚷
 o'z  嚼
 ott  囀
-obb  囁
+obv  囁
 b,z  囂
 ohn  囈
 ozs  囉
@@ -2800,8 +2800,8 @@ o/'  囫
 oto  固
 ofn  囿
 otm  圃
-o,l  圄
-oxi  圈
+oeo  圄
+ovp  圈
 ont  圉
 o\o  國
 o'j  圍
@@ -2844,7 +2844,7 @@ or;  跳
 ory  跺
 opd  跼
 oj;  踏
-ol/  踐
+o\/  踐
 oqy  踝
 opt  踞
 oka  踟
@@ -2884,12 +2884,12 @@ ov/  躍
 ovr  躑
 oft  躓
 ofn  躕
-obb  躡
+oeb  躡
 ohm  躪
 opl  邑
 o/b  郢
 beb  鄂
-o.b  鄙
+obb  鄙
 ot/  雖
 be,  顎
 osa  饕
@@ -3438,10 +3438,10 @@ t/y  蝌
 tai  蝓
 tbe  蝗
 t/p  蝙
-t;q  蝠
+t,;  蝠
 tpe  蝦
 ttn  蝴
-tty  蝶
+ttl  蝶
 tgo  蝸
 tbs  螂
 tyg  螃
@@ -3452,7 +3452,7 @@ tqw  螺
 tgx  螻
 t.;  蟀
 tha  蟆
-tol  蟈
+to\  蟈
 t'i  蟋
 tyq  蟑
 thh  蟒
@@ -3460,7 +3460,7 @@ t'y  蟠
 tbq  蟬
 tyr  蟯
 ttt  蟲
-tvi  蟻
+tve  蟻
 t'f  蟾
 tbb  蠅
 tqo  蠍
@@ -3473,10 +3473,10 @@ tgf  蠹
 
 .tk  衷
 n.l  裁
-j./  裘
+j;.  裘
 t,r  貴
 thr  賁
-yh   轟
+tv   轟
 toy  辜
 tfa  鏨
 tu,  頓
@@ -3486,11 +3486,11 @@ tog  鴣
 jde  齧
 
 tat  幹
-tl.  戟
+t,\  戟
 ta;  斡
 tft  斬
 tne  朝
-ttl  軋
+tt\  軋
 t\/  軌
 t,r  軏
 t,t  軒
@@ -3503,7 +3503,7 @@ t/e  軼
 t\i  軾
 tyx  較
 tsn  輊
-tbl  輒
+tb\  輒
 t'q  輓
 ttm  輔
 t,s  輕
@@ -3516,7 +3516,7 @@ tam  輪
 tob  輯
 tea  輳
 tan  輸
-t;q  輻
+tq;  輻
 tph  輾
 tgj  轄
 tno  轅
@@ -4699,23 +4699,23 @@ cne  肓
 .tk  衰
 
 kns  社
-kpl  祀
+kp\  祀
 kb   祁
 k/a  祆
-kcl  祇
+kc\  祇
 kft  祈
-kez  祉
+kii  祉
 kfo  祐
 ki/  祕
 kne  祖
-kc,  祗
+kc\  祗
 kke  祚
 kns  祛
 kor  祝
 kts  神
 kd;  祠
 kvj  祥
-kte  祺
+khe  祺
 k',  祿
 kgo  禍
 kir  禎
@@ -5030,7 +5030,7 @@ yih  龔
 /zv  俱
 /ee  俳
 /aj  俸
-/al  俺
+/a\  俺
 /b/  俾
 /ek  倀
 /ga  倆
@@ -5046,7 +5046,7 @@ yih  龔
 /hq  借
 /qq  倡
 /.k  倣
-/xp  倦
+/vp  倦
 /pt  倨
 /je  倩
 /ur  倪
@@ -5060,7 +5060,7 @@ yih  龔
 /hf  偌
 /qk  偎
 //p  偏
-/ib  偕
+/e\  偕
 /tk  做
 /;g  停
 /uj  健
@@ -5784,7 +5784,7 @@ cltv 一世修一世成
 ,/,  一和二
 ,oo  一回
 ,ot  一回事
-,ox  一圈
+,ov  一圈
 ,g.  一堂課
 ,n/  一堆
 ,nq  一場
@@ -5794,6 +5794,7 @@ cltv 一世修一世成
 ,,n  一大堆
 ,,q  一大早
 ,,e  一大步
+,,a  一大鍋
 ,,,  一天
 ,ae  一套
 ,xo  一如
@@ -5878,6 +5879,7 @@ cltv 一世修一世成
 ,/qq 一段時日
 ,/qm 一段時間
 ,/.  一段話
+,;j  一滴水
 ,vb  一為
 ,k,n 一片天地
 ,/j  一生
@@ -5977,7 +5979,7 @@ gdly 一週一日行
 ,vv  一點點
 ,/a  七個人
 ,l'. 七夕
-,ntl 七月十九
+,nt\ 七月十九
 ,lvi 七點
 ,vv  七點半
 ,vz  七點見
@@ -6180,6 +6182,7 @@ tbdy 下半身思考
 ,iso 下台
 ,ibq 下單
 ,bz  下單了
+,oao 下嚥入喉
 ,ioo 下回
 ,ioo 下圖
 ,ind 下坡
@@ -6419,6 +6422,7 @@ trad 不動產交易
 ,qo  不是跟
 ,qg  不暴露
 ,q'  不曉得
+,vs  不曾經
 ,wav 不會
 ,a/u 不會付出
 ,a,  不會再
@@ -6501,6 +6505,7 @@ unce 不確定原理
 ,wz  不肖子
 ,wsn 不能
 ,s/  不能丟
+,sd  不能加
 ,so  不能啦
 ,soy 不能回來
 ,s'  不能夠
@@ -6764,6 +6769,7 @@ drct 主任辦公室
 .a/  主鍵值
 .nq, 主題
 .ngq 主體
+'\.k 久放
 'tj/ 久未耕種
 '\'o 久違
 .z,  之一
@@ -6807,24 +6813,27 @@ drct 主任辦公室
 /y/, 乘積
 /ytq 乘車
 /tv  乘車券
-lohs 九品蓮台
-l/ne 九月
-ln/  九月份
-l.,k 九玄七祖
-l/vi 九點
-lyng 九龍城寨
+\ohs 九品蓮台
+\/ne 九月
+\n/  九月份
+\.,k 九玄七祖
+\/vi 九點
+\yng 九龍城寨
 d,t  也一直
+d,,g 也不一定
 d,/i 也不停止
 d,n  也不去
 d,ny 也不去想
 d,'  也不多
 d,kf 也不怎麼
+d,yr 也不想要
 d,q  也不是
 d,q' 也不曉得
 d,a  也不會
 d,ak 也不會被
 d,m  也不用
 d,k  也不知
+d,kv 也不知道
 d,s' 也不能夠
 d,r  也不要
 d,a  也不錯
@@ -6850,6 +6859,7 @@ d;q. 也就是說
 dp.  也已讓
 dxc  也希望
 d\'q 也很
+d'nh 也很喜歡
 d'jk 也很搞笑
 d\'q 也得
 d'v  也得以
@@ -7223,6 +7233,7 @@ agyb 人體極限
 /fyr 什麼東西
 /fyz 什麼樣子
 /f;  什麼油
+/ff  什麼病
 /fhy 什麼花樣
 /fn  什麼都
 pssb 什麼都有可能
@@ -7243,6 +7254,7 @@ a,qi 今天早上
 a,q  今天是
 a,qi 今天晚上
 a,a  今天會
+a,an 今天會去
 a,f  今天有
 a,.  今天的
 a,/g 今天透露
@@ -7294,7 +7306,10 @@ alft 介質
 /yb  他本身
 /dxr 他殺
 /d.  他的
+/.a/ 他的人生
+/.x  他的好
 /.yz 他的意見
+/.kn 他的福報
 /di' 他處
 /d.. 他讓
 /zf  他還在
@@ -7473,6 +7488,7 @@ aiaq 企銀
 /qi  但是我
 /q,/ 但由一個
 /q/j 但看
+///a 但看個人
 /fpd 佈局
 /f.k 佈施
 sxdu 佈施持戒忍辱精進禪定般若
@@ -7922,6 +7938,7 @@ apno 倉頡
 /qnu 倒映遠山
 /,q, 倒是
 /,rq 倒要
+/u'  倒覺得
 /,m, 倒閉
 /whf 倘若
 /ig' 候審
@@ -7932,7 +7949,7 @@ apno 倉頡
 ///. 借貸利率
 /h/t 借重
 /qvb 倡導
-/xso 倦怠
+/vso 倦怠
 /aeq 倫理
 /or/ 值回票價
 /t'q 值得
@@ -8274,6 +8291,7 @@ xxg  兇殺案
 /n.j 先請
 /./  先請假
 /./  先請您
+/.i  先讓我
 /noq 先跟
 /n/. 先進
 //n  先進場
@@ -8284,7 +8302,7 @@ xxg  兇殺案
 /zk  先預祝
 /en  先驅者
 wom. 光中門市
-w,ox 光圈
+w,ov 光圈
 w,'y 光彩
 w,q; 光影
 w,qn 光明
@@ -8680,7 +8698,9 @@ mnfn 冉有
 ,mbq 再戰
 ,jg. 再打電話
 ,mj\ 再找
+,jj  再找找
 ,agn 再拿過去
+,mjq 再提
 ,jg  再搞定
 ,j/  再搭乘
 ,..  再放於
@@ -8689,6 +8709,7 @@ mnfn 冉有
 ,f./ 再有變化
 ,m;' 再次
 ,;f. 再次感謝
+,jn  再熬煮
 ,m/j 再生
 ,/.u 再生計畫
 ,m/j 再看
@@ -9024,6 +9045,7 @@ o/,m 別再
 o/ns 別去
 ow/i 別小看我
 o/.  別的
+o.ti 別的事情
 o.q  別說是
 oag  別錯過
 /a/d 利人利己
@@ -9260,6 +9282,7 @@ d/fm 加值應用
 d/ar 加入
 da;x 加入冰糖
 day  加入賴
+d;x  加冰糖
 d/gi 加密
 dg/w 加密貨幣
 d/ii 加州
@@ -9538,7 +9561,7 @@ vkh  半年期
 vj', 半徑
 vny  半月板
 vjy, 半部
-/qo. 卑鄙
+/qob 卑鄙
 /oee 卑鄙齷齪
 /qb, 卑陋
 /bee 卑陋齷齪
@@ -9692,6 +9715,7 @@ fvba 厥陰
 fgw, 厭煩
 fhgj 厲害
 fhbr 厲鬼
+nsi, 去上
 ni.  去上課
 nstl 去世
 ns/k 去作
@@ -9944,6 +9968,7 @@ ovmj 只用
 ovsn 只能
 osn  只能去
 os'  只能夠
+oskk 只能祝福
 os.  只能說
 os.q 只能說是
 ohf  只藏在
@@ -9951,6 +9976,7 @@ ovrq 只要
 or/  只要你
 orgs 只要兩組
 ors' 只要能夠
+ou'  只覺得
 o/k  只重視
 ovbq 只限
 ovg, 只需
@@ -9984,6 +10010,7 @@ o,op 叮囑
 ,v'u 可以外出
 ,vxx 可以好好
 ,vxd 可以學習
+,vgv 可以寄送
 ,vk  可以將
 ,vh  可以帶
 ,vni 可以幫忙
@@ -10401,6 +10428,7 @@ oo;  咖啡渣
 ooa  咖啡舘
 ooa  咖啡館
 pp,; 咫尺天涯
+o,/  咳不停
 o.,s 咳到
 o.oy 咳嗽
 oofk 咳嗽症狀
@@ -10486,7 +10514,7 @@ moq, 問題
 mq., 問題之一
 mqq  問題是
 ook. 啞口無言
-o,op 啞吧
+o,oq 啞吧
 o,ql 啞巴
 /p/t 啟動
 /pxs 啟始
@@ -10569,6 +10597,7 @@ bq./ 單方
 bq;' 單次
 b;la 單次收入
 bqzz 單獨
+bzu. 單獨出遊
 bqst 單純
 bqna 單腳
 bqo, 單號
@@ -10620,6 +10649,7 @@ o/d  嚇自己
 onod 嚇跑
 o;od 嚎啕
 oo,b 嚎啕大哭
+oz,, 嚐了一下
 og.\ 嚐試
 oggo 嚐過
 bffh 嚴厲
@@ -10761,8 +10791,8 @@ oxkb 固精壯陽
 otcx 固腎
 oci  固腎功
 oha; 固若金湯
-oxox 圈圈
-oxae 圈套
+ovov 圈圈
+ovae 圈套
 o\ol 國中
 ooqh 國中時期
 oo.  國中的
@@ -11189,6 +11219,7 @@ fgsg 壓縮
 fgoa 壓跨
 fgtq 壓軸
 fgbl 壓迫
+n.ji 壞掉
 njz  壞掉了
 n;b  壞消息
 ndi  壞習慣
@@ -11995,6 +12026,7 @@ xdu' 妳也覺得
 x'/m 妳們
 x'ns 妳去
 x/uz 妳和兒子
+x/.  妳失戀
 xyr/ 妳想要作
 x'/p 妳所
 xji  妳擔心
@@ -12496,7 +12528,7 @@ gtd; 實習
 gd/  實習生
 gt'e 實行
 gtft 實質
-gtol 實踐
+gto\ 實踐
 gtba 實際
 gbi  實際上
 gbk; 實際狀況
@@ -12672,12 +12704,14 @@ wjy  對撞機
 wv./ 對方
 w.jp 對方提及
 w.q  對方是
+w..  對方的
 wv.a 對於
 w.a  對於人
 w./  對於你
 w./a 對於個人
 w.ky 對於將來
 w.i  對於我
+w./d 對於自己
 wqm  對時間
 wfea 對有些人
 wve\ 對此
@@ -12814,6 +12848,7 @@ wt;g 尚未決定
 ,/ji 尤指
 tabs 尬聊
 ;,a  就不會
+;,k  就不知
 ;,r  就不要
 ;,gn 就不過去
 ;,gr 就不需要
@@ -12877,11 +12912,13 @@ tabs 尬聊
 ;q.y 就是這樣
 ;,av 就會
 ;ap  就會已
+;am  就會用
 ;a.  就會讓
 ;,fn 就有
 ;fz  就有了
 ;,wv 就業
 ;;f  就沒有
+;nz  就煮了
 ;,mj 就用
 ;,/j 就看
 ;kv  就知道
@@ -13392,6 +13429,7 @@ svf  幽默感
 ss/v 幾乎
 s/gv 幾乎完美
 s/k  幾乎將
+s/qi 幾乎晚上
 ssa  幾人
 ss/. 幾位
 ss/j 幾何
@@ -13719,6 +13757,7 @@ qbg/ 影響運動
 ',a  很不錯
 'q'\ 很久
 ''z  很久了
+'z'  很了解
 'z'x 很了解妳
 '/u  很付出
 'q/c 很低
@@ -13757,7 +13796,7 @@ qbg/ 影響運動
 'xo  很好嗎
 'xj/ 很好操作
 'xe  很好玩
-'x.  很好的
+'xm  很好用
 'x/  很好看
 'xk  很好笑
 'gq  很容易
@@ -13816,12 +13855,14 @@ qbg/ 影響運動
 'vo  很美味
 'vh  很羨慕
 'qba 很臭
+'qht 很苦
 'qh; 很薄
 'ky  很複雜
 '.i  很誠心
 '.y  很諷刺
 ';a  很豪爽
 'qt, 很貴
+'.h  很辛苦
 'zt  很通暢
 'qno 很遠
 'ya  很適合
@@ -13830,11 +13871,14 @@ qbg/ 影響運動
 '/k  很重視
 'mi  很開心
 'qt/ 很難
+'t,o 很難下嚥
+'t'  很難受
 'to  很難嗎
 'tgv 很難完美
 'ty/ 很難想像
 'tvj 很難煎熬
 'tj  很難熬
+'gr  很需要
 'l/  很順利
 'q;m 很高
 ';m  很高興
@@ -13845,6 +13889,7 @@ qbg/ 影響運動
 '//  律師稱
 's/, 後代
 'sya 後來
+'yjg 後來搬家
 'sso 後台
 'sis 後台功能
 'ske 後台管理
@@ -13907,6 +13952,7 @@ qbg/ 影響運動
 'q,s 得到
 ',/  得到你
 ',/q 得到力量
+',x. 得到妳的
 ',ib 得到快樂
 ','  得到愛
 'qnx 得勝
@@ -13969,6 +14015,8 @@ qbg/ 影響運動
 'tnj 微博熱搜
 'uxw 微妙
 'uw  微小
+'u'u 微微
+''oo 微微咳嗽
 '/k  微生物
 '/a  微積分
 'ukk 微笑
@@ -14377,6 +14425,7 @@ yz;n 想法
 y;.g 想法方案
 y/b  想爭取
 yzrq 想要
+yr/f 想要作成
 yr,  想要再
 yrn  想要去
 yrq/ 想要異動
@@ -14399,6 +14448,7 @@ hbr  惹鼻酸
 iiyi 惺惺相惜
 /gig 愁雲慘霧
 aya' 愈來愈多
+ad;; 愈加淒涼
 anad 愈發
 agr  愈需要
 iail 愉快
@@ -14428,6 +14478,7 @@ qmaq 愚蠢
 qa,y 愚蠢至極
 'gi, 愛上
 ','/ 愛不釋手
+'ga  愛人
 frst 愛人先愛己
 '/f  愛健康
 'gxz 愛好
@@ -14691,6 +14742,7 @@ feya 成長機會
 fe.  成長率
 fenn 成長趨勢
 feg/ 成長過程
+i,yn 我不想去
 i,q  我不是
 i,a  我不會
 i,'  我不行
@@ -14699,6 +14751,7 @@ id\  我也
 id,a 我也不會
 idq  我也是
 idf  我也有
+ia,  我今天
 i/q  我仍是
 ivv  我以為
 i/g  我倆
@@ -14724,6 +14777,7 @@ ixe  我媽
 iwv  我對
 i;,  我就
 i;y  我就想
+i;q  我就是
 ip\  我已
 iyz  我想
 iy.m 我想請問
@@ -14734,6 +14788,7 @@ josh 我是呂俊興
 iqk  我是將
 iqy  我是想
 iqq/ 我是男生
+iq/f 我是白癡
 iav  我會
 iaf  我會在
 ia/d 我會自己
@@ -14746,6 +14801,7 @@ i;f  我沒有
 ief  我現在
 i.   我的
 i.,/ 我的一生
+i.'n 我的名聲
 izv  我目前
 ikv  我知道
 i/d  我自己
@@ -14973,6 +15029,7 @@ jjbq 打單
 jbiz 打單項目
 jjfg 打壓
 jf\  打壓式
+jjn. 打壞
 jjgz 打字
 ji/  打工仔
 jnnv 打幫助道
@@ -15058,6 +15115,7 @@ j\,s 找到
 j,z  找到了
 jmq  找問題
 j,g  找大家
+jxu. 找妳出遊
 j\ui 找尋
 j/a  找師父
 j'/  找律師
@@ -15579,6 +15637,7 @@ jhgu 描寫
 jhsa 描繪
 jhy. 描述
 jq.v 提交
+jq/d 提他
 jq/h 提供
 j/z  提供了
 j/sn 提供參考
@@ -15616,6 +15675,7 @@ jqkt 提神
 jq.v 提議
 jq/\ 提貨
 j/i  提貨卡
+jqnp 提起
 jqrq 提醒
 jrx  提醒她
 jri/ 提醒我們
@@ -15937,6 +15997,7 @@ ibg/ 攻防體系
 .kar 放入
 .;h  放冷藏
 .kfl 放在
+.fok 放在哪裡
 .ffk 放在店裡
 .k,a 放大
 .kxz 放好
@@ -16565,6 +16626,7 @@ qov  是因為
 q,fl 是在
 qx/  是如何
 qxe  是如此
+q,x' 是妳
 qwqa 是對是錯
 qw.  是對的
 qtz  是帽子
@@ -16645,7 +16707,7 @@ qw/t 晃動
 ,ssp 晉級
 q'i, 晚上
 qi,v 晚上七點
-qilv 晚上九點
+qi\v 晚上九點
 qiav 晚上八點
 qitv 晚上十點
 qi./ 晚上方便
@@ -16656,6 +16718,7 @@ q'nv 晚報
 q'xc 晚婚
 q'gx 晚安
 qgm/ 晚安問候
+q'kj 晚年
 q'av 晚會
 q'hn 晚期
 q'mq 晚間
@@ -16898,6 +16961,7 @@ q/r  最失敗
 qbxz 最好
 qxq  最好是
 qgv  最完美
+qgf  最實在
 qtw  最專業
 qw/a 最小個人
 qbw/ 最少
@@ -16997,6 +17061,7 @@ a;y. 會注意的
 a;q  會準時
 aam  會發問
 aa/  會發生
+aag  會發霉
 av.  會的
 asy  會結束
 asz  會給予
@@ -17040,6 +17105,7 @@ fna  有人
 fa/w 有人代勞
 fas  有人緣
 f/f  有什麼
+f//  有任何
 fn/a 有份
 fn/v 有伴
 fn/. 有位
@@ -17128,6 +17194,7 @@ fn;' 有次
 fe,m 有此一問
 fei, 有此情形
 f/f  有毛病
+fja  有水分
 f;f  有沒有
 f;i  有激情
 fnkh 有無
@@ -17270,6 +17337,7 @@ y,a  本人
 y,/a 本份
 y,ya 本來
 yy;q 本來就是
+yyq  本來是
 yad  本公司
 y,ad 本分
 y,nn 本卦
@@ -17356,11 +17424,13 @@ qytb 果敢
 qyv, 果斷
 qvjs 果斷拒絕
 qy;t 果汁
+q;y  果汁機
 q;r  果汁酸
 qyda 果然
 qyfd 果皮
 qf/  果皮甜
 qm'r 果肉微酸
+qyk' 果醬
 dozz 架子
 doyh 架構
 do.r 架設
@@ -17541,6 +17611,7 @@ yyv/ 榜首
 wgpv 榮民
 wga; 榮登
 wgsb 榮總
+ws.  榮總的
 wgwd 榮耀
 wgua 榮譽
 yhqi 構思
@@ -17688,8 +17759,9 @@ ftgo 欣賞
 aac' 欲望
 ac,d 欲望太強
 az,s 欲罷不能
-h''r 欺負
-h'e/ 欺騙
+hezt 欺瞞
+he'r 欺負
+hee/ 欺騙
 a'/r 欽佩
 a'vi 欽點
 ne\i 款式
@@ -17762,6 +17834,7 @@ ezgo 正當
 egi  正當性
 eg'v 正當行為
 eztn 正直
+ety  正直村
 ezka 正知
 ezfg 正確
 efi  正確性
@@ -17777,6 +17850,7 @@ esq  正能量
 ei.  正處於
 ezzr 正見
 ezkz 正視
+ez'd 正解
 ez'r 正負
 eztt 正轉
 ezvb 正道
@@ -18081,6 +18155,7 @@ j;oc 水源園區
 j;o  水源路
 j;;e 水準
 j;;  水溶液
+j;;y 水滴
 j;;v 水漾
 j;;z 水澤
 jwq; 水火既濟
@@ -18194,6 +18269,7 @@ aj;q 汆燙
 ;fwa 沒有對錯
 ;fhe 沒有帶班
 ;fs/ 沒有幾個
+;f'' 沒有很多
 ;fir 沒有必要
 ;f'w 沒有怨懟
 ;fyv 沒有意義
@@ -18249,6 +18325,7 @@ aj;q 汆燙
 ;;p  油漆刷
 ;q;j 油漬
 ;qwr 油煙
+;uwy 油盡燈枯
 ;q,, 油頭
 ;,.  油頭該
 ;sxz 治好
@@ -19033,6 +19110,7 @@ k;,n 無法下載
 k;/  無法像
 k;mb 無法刪除
 k;ss 無法參與
+k;z' 無法承受
 k;j' 無法持久
 k;yn 無法新增
 k;k, 無法無天
@@ -19100,6 +19178,7 @@ kgjs 無需拒絕
 /iha 焦慮萬分
 /.vi 焦點
 da's 然後
+d'on 然後回去
 d'.  然後於
 da,/ 然而
 vnn/ 煎煮
@@ -19162,6 +19241,8 @@ s./  熊講師
 jk./ 熬夜
 jkfd 熬成
 jkn/ 熬煮
+jn.  熬煮的
+jgy  熬過來
 n.j  熱交換
 n/x  熱力學
 noo  熱咖啡
@@ -19353,6 +19434,7 @@ koq  特別是
 koqx 特別是妳
 ko.  特別的
 ko'/ 特別行動
+korz 特別購買
 kob. 特別邀請
 knnd 特地
 knig 特工
@@ -19518,9 +19600,11 @@ ez/, 現代
 ez// 現任
 ezfl 現在
 ef,' 現在不行
+efof 現在只有
 efo  現在嗎
 eff  現在在
 efx  現在姐
+efk  現在將
 efq  現在是
 ef.  現在的
 efr  現在要
@@ -19594,6 +19678,7 @@ e,fy 琢磨
 epfe 瑕疵
 ea/d 瑜伽
 eaed 瑜珈
+ee.  瑜珈課
 eu't 瑞德
 euh. 瑞芳
 ehy  瑞芳站
@@ -20096,6 +20181,7 @@ adfy 發麻
 /qj; 白水
 /qk' 白漿
 /qab 白爺
+/qfi 白癡
 /q/q 白白
 //jn 白白折騰
 /fu  白皮書
@@ -20141,6 +20227,7 @@ mlln 百萬分之一
 ,/qn 百里
 ,/l, 百順
 .tt  的事
+.ti  的事情
 .a   的人
 ./;  的作法
 .ay  的分析
@@ -20753,6 +20840,8 @@ yygh 禁賽
 yygt 禁運
 kgyu 禍端
 k;/y 福利
+k/k  福利社
+k;nv 福報
 knu  福壽山
 knt  福壽螺
 k;'t 福德
@@ -21200,6 +21289,9 @@ xn;l 粗淺
 xnq' 粗略
 xnff 粗礪
 xh;a 粗茶淡飯
+xn;g 粗豪
+xnob 粗鄙
+xnqn 粗野
 b'.e 粵語
 xj/d 精力
 xjoo 精品
@@ -21371,6 +21463,7 @@ ylgt 紮實
 qs/, 累積
 q/se 累積經驗
 sxtt 細如蚊蠅
+sw'u 細微
 swkq 細節
 skay 細節分析
 swnd 細胞
@@ -21721,6 +21814,7 @@ svsn 繼續
 ss/a 繼續付錢
 ssu. 繼續出遊
 ssfa 繼續成全
+ssq/ 繼續累積
 sn/k 續作
 sngo 續掌
 snsd 續約
@@ -22160,6 +22254,7 @@ nhr  胺基酸
 s,s  能不能
 sn/t 能做
 s/.  能做的
+s,a  能到父
 sn/d 能力
 s/,o 能力不足
 s//  能力佳
@@ -22330,6 +22425,7 @@ fwtr 自來水園區
 /d.  自己的
 /dni 自己考慮
 /ds/ 自己能力
+/die 自己處理
 /du' 自己覺得
 /d./ 自己請假
 /dbb 自己身邊
@@ -22529,10 +22625,12 @@ hqrq 苗栗
 hq,, 苗頭
 hdne 苟且
 hdm; 苟同
+hf,w 若不
 hf,t 若干
 hyr  若想要
 hfq, 若是
 hq/x 若是作好
+hqof 若是口感
 hq,v 若是可以
 hqf  若是在
 hqxe 若是如此
@@ -22752,6 +22850,7 @@ hje\ 藉此
 hjql 藉由
 hqos 藉由因緣
 hjhn 藉著
+hhi  藉著我
 h,/  藍大仙
 h,/g 藍天白雲
 hi;  藍心湄
@@ -22903,6 +23002,7 @@ aqaq 蠢蠢
 'e/t 行動
 '/ws 行動小組
 '/vg 行動美容
+'/g; 行動電源
 'eve 行善
 'v/' 行善積德
 'etg 行囊
@@ -22999,6 +23099,7 @@ j,/  表面積
 kiy  被上帝
 k,.  被下放
 kd/d 被他
+k//  被傻傻
 kdvi 被判
 kyx  被刺殺
 kd/t 被動
@@ -23012,6 +23113,7 @@ kdxd 被她
 kdzz 被子
 kga  被客人
 k/q  被忽略
+kd'g 被愛
 kf;  被感染
 kf;z 被感染了
 kan  被拿去
@@ -23158,6 +23260,7 @@ rua  要出入
 run  要出去
 ru,  要出頭
 rq,s 要到
+rd;x 要加冰糖
 r/g  要包容
 rcb  要區隔
 rqns 要去
@@ -23319,6 +23422,7 @@ tzzr 覲見
 ugga 覺察
 ug'q 覺得
 u',v 覺得可以
+u'o  覺得吧
 u'q  覺得是
 ugi/ 覺性
 ugie 覺悟
@@ -23449,6 +23553,7 @@ tckt 訂於年月日
 .ty  記事本
 .d/. 記住
 .d'q 記得
+.'vv 記得以前
 .'f  記得在
 .'h  記得帶
 .'/  記得您
@@ -23711,6 +23816,7 @@ klss 課程內容非常充實詳盡
 .w.w 談談
 .w.a 談論
 .j/' 請你
+./,r 請你不要
 .j/p 請假
 .j,s 請到
 .vc  請前賢
@@ -23798,6 +23904,7 @@ sadr 請問自取住址
 .,n  講一聲
 .,u  講不出
 .hz  講了
+.he\ 講些
 .huu 講出
 .h,s 講到
 .hny 講培
@@ -23824,6 +23931,7 @@ sadr 請問自取住址
 .h'd 講解
 .h./ 講話
 ..o  講話嗎
+..b/ 講話陪伴
 .h.q 講課
 .h.h 講講
 ../  講講看
@@ -24186,6 +24294,7 @@ rkt  購物車
 rhzr 購買
 rzz  購買了
 rz/d 購買付費
+rz;x 購買冰糖
 rzhb 購買期限
 rza, 購買饅頭
 ghtt 賽事
@@ -24217,10 +24326,12 @@ n,h  走一遭
 nii, 走上
 niz  走上了
 n,n  走下去
+n,n  走下坡
 n,,n 走不下去
 ni/. 走位
 niuu 走出
 ni,s 走到
+n,z  走到了
 n,ef 走到現在
 ni/t 走動
 n/\  走動式
@@ -24598,12 +24709,12 @@ tttq 轉軸
 ttyo 轉速
 ttgt 轉運
 ttnv 轉達
-yh,i 轟下
-yh/t 轟動
-yhtr 轟擊
-yhwk 轟炸
-yw\  轟炸式
-yhog 轟鳴
+tv,i 轟下
+tv/t 轟動
+tvtr 轟擊
+tvwk 轟炸
+tw\  轟炸式
+tvog 轟鳴
 .vwg 辛勞
 .vtt 辛勤
 .vht 辛苦
@@ -24750,6 +24861,7 @@ veya 送來
 ve/i 送修
 vesa 送給
 vs'/ 送給各位
+vsx  送給妳
 veh/ 送舊
 ve/\ 送貨
 veni 送走
@@ -24878,6 +24990,7 @@ ay,s 途逕
 .lfy 這麼
 .f'  這麼多
 .f,  這麼大
+.fxm 這麼好用
 .fi  這麼忙
 .fi  這麼快
 .fao 這麼會跑
@@ -24928,7 +25041,7 @@ yaf  速食店
 /nfd 造成
 /ffw 造成疲勞
 /f.a 造成誤會
-/fy/ 造成轟動
+/ft/ 造成轟動
 /k.  造物主
 /n.' 造謠
 /ng; 造雨
@@ -25074,6 +25187,7 @@ gygk 過來家裡
 gy'x 過來後學
 gyq  過來時
 gy;; 過來泡湯
+gy.  過來的
 gy/  過來看
 gons 過去
 gni. 過去上課
@@ -25083,6 +25197,7 @@ gnse 過去台北
 gno  過去嗎
 gnxd 過去學習
 gngk 過去家裡
+gn\  過去式
 gna  過去拿
 gnq  過去時
 gnan 過去會場
@@ -25091,6 +25206,7 @@ gn/  過去看
 gn/x 過去看她
 gn// 過去看看
 gnkc 過去社區
+gnsx 過去給妳
 gn/b 過去自取
 gnrz 過去購買
 gnnn 過去走走
@@ -25131,6 +25247,7 @@ gohn 過著
 goah 過錯
 gm,a 過門不入
 goms 過關
+gmz  過關了
 go,, 過頭
 peyz 遐想
 vbi, 道上
@@ -25180,6 +25297,7 @@ vbyy 道親
 vydh 道親加菜
 vyeo 道親班員
 vboe 道路
+trth 道路真理生命
 vbay 道途
 vbe, 道長
 vbr/ 道風
@@ -25365,6 +25483,8 @@ z;ua 還沒出發
 z;f  還沒有
 zeyy 還珠格格
 z;sn 還能
+zsm  還能用
+z;'e 還行
 z;kd 還被
 zknv 還被封為
 z;rq 還要
@@ -25372,6 +25492,7 @@ zr/  還要作
 zr/t 還要作事
 zrn  還要去
 z.'  還記得
+z.'o 還記得吧
 z;.. 還讓
 zn,  還趕到
 zg'n 還過得去
@@ -25386,6 +25507,7 @@ zsto 邏輯
 d,/  那一句
 dje\ 那些
 dj// 那件
+d/g, 那份需求
 dj/. 那位
 d/q/ 那位男生
 d/.  那你的
@@ -25405,6 +25527,7 @@ d/qw 那段時光
 dj/y 那種
 dj.q 那裏
 djkq 那裡
+dkn  那裡去
 djbg 那邊
 djfy 那麼
 df'  那麼久
@@ -25442,6 +25565,8 @@ n,,' 都不太愛
 n,'  都不愛
 n,t  都不敢
 n,q  都不是
+n,v  都不曾
+n,vs 都不曾經
 n,a  都不會
 n,s  都不能
 n,r  都不要
@@ -25460,6 +25585,8 @@ n'y  都很想
 nig  都忙完
 njj  都推掉
 njf  都擁有
+ndv  都改善
+ndvz 都改善了
 n.f  都放在
 n/q, 都是
 nqv  都是以
@@ -25469,6 +25596,7 @@ nqi  都是我
 nqfi 都是有心
 nqr  都是要
 nqrg 都是要當
+nq.h 都是辛苦
 nqsf 都是鄉愿
 nqgr 都是需要
 nqep 都是騙局
@@ -25481,6 +25609,7 @@ nau' 都會覺得
 n/fn 都有
 nf,s 都有可能
 nfg  都有寫
+nfjt 都有擦乾
 n;d. 都沒改變
 n;f  都沒有
 n;/x 都準備好
@@ -25488,6 +25617,7 @@ nk;  都無法
 nqi  都由我
 nsio 都給我吧
 n/sn 都能
+nsx  都能好
 n/kd 都被
 n/rq 都要
 nrv  都要以
@@ -25499,7 +25629,7 @@ ngr  都需要
 sb,i 鄉下
 sa/  鄉公所
 sbmq 鄉間
-o.,d 鄙夷
+ob,d 鄙夷
 vgf  鄭雨盛
 x'pt 鄰居
 x'ft 鄰近
@@ -25517,7 +25647,7 @@ rdzt 配置
 rdhb 配藥
 rd'm 配角
 ;/r  酒佳釀
-;rop 酒吧
+;roq 酒吧
 ;ry, 酒杯
 ;yd  酒杯架
 ;rfb 酒癮
@@ -25756,6 +25886,7 @@ adr  錢也要
 a\/d 錢包
 a\n/ 錢堆
 a\/\ 錢袋
+ar/y 錢賺進來
 ah/. 錯位
 ah/e 錯失
 ah'q 錯得
@@ -25936,7 +26067,7 @@ mhmv 開荒闡道
 m,.r 開設
 m,.q 開課
 m,tq 開車
-m,yh 開轟
+m,tv 開轟
 m,zm 開通
 mva, 開道人才
 m,aw 開銷
@@ -26383,7 +26514,7 @@ g..  電話裏
 g... 電話討論
 g.zk 電話通知
 gqoe 電路
-gygo 電轟雷鳴
+gtgo 電轟雷鳴
 gzq  電通量
 gq/t 電郵
 eddr 電郵chlu10@mail.vghtpe.gov.tw
@@ -26638,6 +26769,8 @@ a,v  領頭羊
 ,,', 頭徑
 ,,qg 頭暈
 ,hn  頭期款
+,,ng 頭殼
+,nnj 頭殼壞掉
 ,,kf 頭版
 ,,f' 頭疼
 ,,fz 頭痛
@@ -26646,6 +26779,7 @@ a,v  領頭羊
 ,,sn 頭緒
 ,/,  頭肩頸
 ,,ns 頭腦
+,nnj 頭腦壞掉
 ,nkb 頭腦簡單
 ,,o, 頭號
 ,oeg 頭號玩家
@@ -26774,6 +26908,7 @@ v/ft 首度
 v/bq 首戰
 v/q  首日
 v/yz 首相
+v/tv 首轟
 v/,b 首頁
 /yx; 香料
 /y;h 香港
