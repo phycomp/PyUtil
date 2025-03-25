@@ -773,7 +773,7 @@ b,b  陌
 b'j  降
 bqk  限
 b,s  陘
-be\  陛
+ben  陛
 baa  陝
 b/h  陞
 bni  陡
@@ -928,7 +928,7 @@ e'\  玖
 e.x  玟
 eer  玩
 ea.  玲
-e/\  玳
+e/,  玳
 eio  玷
 edx  玻
 e/q  珀
@@ -1185,6 +1185,7 @@ f'v  癬
 fb'  癮
 fs/  癰
 ft/  癱
+ftb  癲
 ddp  皰
 fwz  盔
 fdz  盛
@@ -1380,6 +1381,7 @@ t'a  歎
 toe  燕
 hvl  甚
 tqk  艱
+hqh  蓽
 
 hqn  墓
 hzg  夢
@@ -1758,7 +1760,7 @@ i,i  忐
 itx  忮
 eiy  柴
 ii   止
-e\c  此
+e/\  此
 ew/  步
 etx  歧
 ef\  歲
@@ -1896,7 +1898,7 @@ jaz  捻
 jf'  掀
 jug  掃
 jam  掄
-j/g  授
+j'g  授
 jit  掉
 jdk  掏
 jee  排
@@ -1905,7 +1907,7 @@ jpu  掘
 j'u  掙
 jnn  掛
 j;w  掠
-j/w  採
+j'y  採
 jgv  探
 jyx  接
 jgi  控
@@ -1976,7 +1978,7 @@ jad  撥
 jaq  撩
 jkh  撫
 jjl  撬
-j'y  播
+j/v  播
 jqb  撮
 jpp  撰
 jwv  撲
@@ -2236,7 +2238,7 @@ nvn  逵
 'ql  逸
 ,ol  逼
 anl  逾
-ftz  遁
+fzl  遁
 vzl  遂
 qml  遇
 .dk  遊
@@ -2472,7 +2474,7 @@ nqn  埋
 nfd  城
 ntm  埔
 noe  埕
-nlo  域
+n\o  域
 nbt  埠
 nb/  埤
 n\/  執
@@ -2606,7 +2608,7 @@ oj.  吋
 oj\  吒
 oaz  吟
 oa.  吠
-oql  吧
+oq\  吧
 oad  吩
 oft  听
 o.r  吭
@@ -2946,9 +2948,9 @@ pyc  羼
 /dd  翩
 /ku  肇
 prm  臀
-pyn  臂
+pon  臂
 pj.  褽
-pyk  襞
+py/  襞
 py.  譬
 py,  辟
 /p.  雇
@@ -3589,7 +3591,7 @@ uue  祟
 u,/  耑
 ua   臾
 uqd  舅
-u,'  艷
+u;'  艷
 u,t  蚩
 u,z  覬
 u;v  豈
@@ -3738,6 +3740,7 @@ wqd  煬
 w/p  煽
 wbi  熄
 wga  熔
+wdd  熠
 wym  熵
 wyq  熾
 wh,  燁
@@ -4508,7 +4511,7 @@ fb/  碑
 f/.  碓
 fg'  碗
 fzh  碘
-ftl  碟
+fty  碟
 fqo  碣
 f,b  碩
 fvw  碰
@@ -4750,7 +4753,7 @@ kha  褡
 kfe  褥
 kqk  褪
 kfi  褫
-kft  褲
+kfq  褲
 kd;  褶
 kgx  褸
 kb'  襖
@@ -4949,7 +4952,7 @@ yih  龔
 /ti  乖
 /ye  乘
 /e   仁
-/dl  他
+/d\  他
 /t\  仗
 /j.  付
 /d.  仞
@@ -4963,11 +4966,11 @@ yih  龔
 /u/  伊
 /px  伋
 /tx  伎
-/.a  伏
+/a.  伏
 //q  伯
 /to  估
 /vj  伴
-/a.  伶
+/a,  伶
 /d;  伺
 /v.  似
 /d/  伽
@@ -5322,24 +5325,24 @@ l,a  夬
 ;fx  婆
 ;'i  恣
 ;ei  憑
-;iy  柒
-;ly  染
+;\y  柒
+;\y  染
 ;dy  梁
 ;'a  次
-;pl  氾
-;l/  汍
+;p\  氾
+;\/  汍
 ;r.  汎
 ;,t  汗
 ;ej  汙
-;lt  汛
-;dl  池
+;\t  汛
+;d\  池
 ;es  污
 ;a.  汰
 ;px  汲
 ;.i  汴
 ;.x  汶
 ;l,  決
-;k,  汽
+;k\  汽
 ;ad  汾
 ;ft  沂
 ;/,  沃
@@ -5454,9 +5457,9 @@ l,a  夬
 ;/j  淮
 ;gv  深
 ;;z  淳
-;qi  混
+;qe  混
 ;aq  淹
-;ll  淺
+;\\  淺
 ;/a  添
 ;j,  清
 ;'m  渙
@@ -5728,6 +5731,7 @@ zsqr 𐀀□
 ,,   一一
 ,it  一上車
 ,,i  一下
+,,o  一下嗎
 ,,n  一下坡
 ,tl  一世
 cltv 一世修一世成
@@ -5736,6 +5740,7 @@ cltv 一世修一世成
 ,e\  一些
 ,eaf 一些人在
 ,a   一人
+,az. 一人獨享
 ,/za 一付眼鏡
 ,/,  一代
 ,/,/ 一代一代
@@ -5748,6 +5753,7 @@ cltv 一世修一世成
 ,/a  一份
 ,/.  一位
 ,/v  一併
+,/ie 一併處理
 ,ya  一來
 ,/o  一個
 ,/a  一個人
@@ -5822,6 +5828,7 @@ cltv 一世修一世成
 ,t;  一幅
 ,tu  一幅畫
 ,kj  一年
+,k,f 一年一度
 ,k,; 一年一次
 ,k,k 一年一簽
 ,k'  一年後
@@ -5956,6 +5963,7 @@ cltv 一世修一世成
 ,ez  一輩子
 ,tqn 一輪明月
 ,tb  一轉身
+,tt  一連串
 ,mn  一週
 gdly 一週一日行
 ,mv  一週前
@@ -5991,6 +5999,7 @@ tqp, 丈量尺寸
 ,,,t 三不五十
 ,,a  三人
 ,,/o 三個
+,/uz 三個兒子
 ,/wz 三個小孩
 ,/n  三個月
 ,,ad 三分
@@ -6362,6 +6371,7 @@ trad 不動產交易
 ,',  不得不
 ,'v  不得以
 ,'p  不得已
+,',k 不得而知
 ,wi/ 不必
 ,ir  不必要
 ,wdi 不忍
@@ -6529,6 +6539,7 @@ unce 不確定原理
 ,wrq 不要
 ,rot 不要回車
 ,rji 不要擔心
+,rf  不要有
 ,r/k 不要生氣
 ,rz/ 不要疏忽
 ,r/  不要看
@@ -6746,7 +6757,7 @@ drct 主任辦公室
 .njn 主持
 .ja  主持人
 .njg 主控
-.nj' 主播
+.nj/ 主播
 ..'  主旋律
 .niq 主旨
 .nys 主機
@@ -6769,6 +6780,7 @@ drct 主任辦公室
 .a/  主鍵值
 .nq, 主題
 .ngq 主體
+'\'\ 久久
 '\.k 久放
 'tj/ 久未耕種
 '\'o 久違
@@ -6890,6 +6902,7 @@ dfue 也有出現
 dfn  也有去
 df/, 也有看到
 dfh  也有著
+dfz/ 也有買房
 dfgr 也有需要
 det  也比較
 d;/f 也沒什麼
@@ -6927,6 +6940,7 @@ dnq  也都是
 dna  也都會
 dgr  也需要
 dgo  也需跟
+dfw  也麻煩
 bly, 乩童
 /wqg 乳暈
 /w;. 乳液
@@ -7001,6 +7015,7 @@ tti, 事項
 ,a,, 二分天下
 ,,,, 二天
 ,,;a 二天法會
+,wq  二小時
 ,,ft 二度
 ,/,f 二房一廳
 ,/n  二房型
@@ -7015,6 +7030,7 @@ tti, 事項
 ,,oe 二路
 ,,mq 二間
 ,b/  二階段
+,,vi 二點
 ,,q, 于是
 ,o/t 互動
 ,/\  互動式
@@ -7032,6 +7048,7 @@ tti, 事項
 ,/'  五千多
 ,lkj 五年
 stdy 五年進修班
+,lft 五度
 ,ln/ 五教
 ,nba 五教聖人
 ,l./ 五方
@@ -7145,6 +7162,7 @@ a/t  人和事
 aoo  人品
 aoy  人品格
 aor  人員
+afl  人在
 afo  人在哪
 af;; 人在江湖
 at,  人士
@@ -7317,6 +7335,7 @@ alft 介質
 /juu 付出
 /uz  付出了
 /u'w 付出多少
+/ut' 付出較多
 ///  付房貸
 /jne 付款
 /ea  付現金
@@ -7327,6 +7346,7 @@ alft 介質
 //v. 仙佛慈訓
 //fs 仙佛有約
 //hh 仙佛菩薩
+//mn 仙佛開壇
 /uk\ 仙氣
 /uhq 仙草
 /ou  仙跡岩
@@ -7392,7 +7412,7 @@ v'v' 以愛為名
 vj'  以技術
 v./  以方便
 vqkq 以暴制暴
-v.e\ 以此
+v.e/ 以此
 ve;m 以此法門
 v;w  以減少
 v.vb 以為
@@ -7590,6 +7610,7 @@ mntn 佛在靈山莫遠求靈山只在汝心頭人人有個靈山塔只向靈山
 /dbg 佛陀
 /dbg 佛院
 /fhy 佛魔共辦
+/iy  作上來
 /k.n 作主
 /z'k 作了多年
 /ktt 作事
@@ -7672,9 +7693,11 @@ acra 作用力與反作用力
 /d,v 你也可以
 /vv  你以為
 /'/m 你們
+/'fl 你在
 /'i  你我
 /aw  你會對
 /'.  你的
+/.ga 你的家人
 /.ii 你的心情
 /'rq 你要
 /u'  你覺得
@@ -7735,7 +7758,7 @@ yaoo 來回
 yakj 來年
 ya'. 來往
 y'p  來得及
-yae\ 來此
+yae/ 來此
 ya;f 來源
 yago 來當
 ya.  來的
@@ -7821,6 +7844,7 @@ ttrs 俄羅斯方塊
 /ofl 保存
 /ogj 保守
 /g.v 保守主義
+/g/n 保守力場
 /ogi 保密
 /,g  保平安
 /ojn 保持
@@ -7887,6 +7911,7 @@ ttrs 俄羅斯方塊
 /iwy 修煉
 /ieq 修理
 /exz 修理好了
+/iki 修築
 /isv 修繕
 /i'e 修行
 /';m 修行法門
@@ -7920,6 +7945,7 @@ apno 倉頡
 /a/m 個人使用
 /aoj 個人因素
 /ay; 個人想法
+/a.  個人的
 /a'v 個人行為
 /au' 個人覺得
 /agn 個人電腦
@@ -8002,6 +8028,7 @@ apno 倉頡
 /xt  做好事
 /x;/ 做好準備
 /t'g 做愛
+/;kq 做決策時
 /t;n 做法
 /tvb 做為
 /t.  做的
@@ -8090,9 +8117,9 @@ hbdc 健康大數據
 /tvb 傳導
 /vgz 傳導電子
 /tzj 傳承
-/tj/ 傳授
+/tj' 傳授
 /tjq 傳揚
-/tj' 傳播
+/tj/ 傳播
 /jq  傳播量
 /nt  傳教士
 /nn  傳教者
@@ -8103,6 +8130,7 @@ hbdc 健康大數據
 /ts. 傳統
 /soa 傳統中鋒
 /s./ 傳統文化
+/bu  傳聘書
 /t.y 傳言
 /t.v 傳說
 /.o  傳說中
@@ -8117,12 +8145,12 @@ hbdc 健康大數據
 /tfi 傳遞
 /fin 傳遞情報
 /tq, 傳題
+/qbu 傳題聘書
 /q./ 傳題講師
 /kn\ 傷勢
 /n'a 傷勢復發
 /ko  傷口
 /kgj 傷害
-/gq  傷害是
 /kix 傷心
 /a'u 傷愈復出
 //ga 傷生害命
@@ -8140,6 +8168,7 @@ hbdc 健康大數據
 /bzq 傻眼
 /bkk 傻笑
 /i/m 傾向
+//.  傾向於
 /tyj 傾囊相授
 /ia, 傾斜
 /ibt 傾聽
@@ -8154,6 +8183,8 @@ hbdc 健康大數據
 /'fl 像在
 /'i  像我
 /wa  僕人
+/y/n 僥倖
+//is 僥倖心態
 /,f, 僵硬
 /r/. 價位
 /r/t 價值
@@ -8304,6 +8335,7 @@ xxg  兇殺案
 wom. 光中門市
 w,ov 光圈
 w,'y 光彩
+w'mw 光彩閃耀
 w,q; 光影
 w,qn 光明
 wqe, 光明正大
@@ -8320,6 +8352,7 @@ w,ft 光碟
 wfy  光碟機
 wfk  光碟片
 w,sb 光線
+w,wd 光耀
 w,ck 光臨
 w,h, 光華
 w,wg 光輝
@@ -8444,6 +8477,7 @@ ae,h 全形
 aeix 全心
 aejn 全掛
 aegx 全數
+agbz 全數歸還
 agk  全數被
 agqu 全數退出
 agn  全數都
@@ -8462,6 +8496,7 @@ aeq, 全球最大
 aew/ 全省
 akt; 全神貫注
 ae/o 全程
+asa  全紀錄
 aesm 全網
 aesn 全能
 as./ 全能講師
@@ -8521,6 +8556,7 @@ gan/ 兩者
 gahq 兩萬
 gatq 兩車
 gabg 兩邊
+gya  兩部分
 gamq 兩間
 gavx 兩雙
 gat/ 兩難
@@ -8674,6 +8710,7 @@ vuve 兼差
 vuby 兼職
 vu/, 兼顧
 mnfn 冉有
+,,;  再一次
 ,,n  再下載
 ,./  再主動
 ,md\ 再也
@@ -8682,6 +8719,8 @@ mnfn 冉有
 ,y;q 再來就是
 ,un  再出去
 ,m,s 再到
+,md/ 再加
+,dtg 再加蜂蜜
 ,mns 再去
 ,n/n 再去進場
 ,ss  再參與
@@ -8708,6 +8747,7 @@ mnfn 冉有
 ,mfn 再有
 ,f./ 再有變化
 ,m;' 再次
+,;n  再次去
 ,;f. 再次感謝
 ,jn  再熬煮
 ,m/j 再生
@@ -8923,7 +8963,7 @@ uued 出馬
 uuvi 出點
 zj\i 函式
 z\f  函式庫
-zjj/ 函授
+zjj' 函授
 zjgx 函數
 dwaq 刀光劍影
 dakz 刀劍無眼
@@ -9085,6 +9125,7 @@ hell 到底是怎樣
 ,ef  到現在
 ,si' 到處
 ,snv 到達
+,nkg 到達禮堂
 ,jy  到頂樓
 ,af  到飯店
 ktft 制度
@@ -9197,6 +9238,7 @@ vnto 剪輯
 vttg 剪輯軟體
 v,e  剪頭髮
 ;/m  副作用
+;n.  副壇主
 ;ae  副會長
 ;y'  副檔名
 gjja 割捨
@@ -9227,6 +9269,8 @@ a//  創造力
 a/i  創造性
 a/ya 創造機會
 un/o 劃個
+uq/  劃時代
+erap 劃時代人物
 izol 劇中
 iz'. 劇名
 izot 劇團
@@ -9241,6 +9285,7 @@ s./  劉講師
 abtm 劍南
 ajxd 劍拔弩張
 abji 劍指
+aygz 劍橋字典
 ydq, 劑量
 /dto 力克
 /dxu 力學
@@ -9251,7 +9296,7 @@ ydq, 劑量
 /dk\ 力氣
 /dkc 力矩
 /dsb 力線
-/dpy 力臂
+/dpo 力臂
 /d'e 力行
 /dvb 力道
 /dq, 力量
@@ -9261,6 +9306,7 @@ idor 功勛
 idwg 功勞
 idea 功夫
 id't 功德
+i'.  功德主
 i't  功德事
 i'kq 功德無量
 mrbn 功德銀行簿
@@ -9425,11 +9471,13 @@ hbbn 勸阻
 /dzz 包子
 /dg; 包容
 /dj/ 包括
+/jz  包括了
 /jf  包括有
 /djz 包拯
 /dys 包機
 /ja  包水餃
 /d;z 包涵
+/xz  包粽子
 /dyl 包紮
 /yny 包紮起來
 /dkn 包裝
@@ -9491,7 +9539,7 @@ c'n  匿名者
 coma 區內
 coad 區分
 coo/ 區別
-conl 區域
+con\ 區域
 cnbb 區域聯防
 conb 區塊
 coo, 區號
@@ -9646,6 +9694,7 @@ qsqn 即時
 qqym 即時新聞
 qsvb 即為
 qsxl 即迷
+vege 卷宗
 kt,i 卸下
 kt// 卸任
 a,t  卻一直
@@ -9726,6 +9775,7 @@ nvb  去兼職
 nsd  去參加
 nsok 去吃
 ns/m 去向
+n,b  去大陸
 nsxu 去學
 ngj  去安排
 n;x  去就好
@@ -9736,8 +9786,10 @@ nff  去感應
 nsj\ 去找
 nju  去找尋
 nj// 去找看看
+nj;x 去找資料
 nsjg 去按
 nj'  去接受
+n.'  去旅行
 nnz  去服務
 n;a  去渡人
 ns/j 去看
@@ -10017,6 +10069,7 @@ o,op 叮囑
 ,v'k 可以得知
 ,v'  可以從
 ,vye 可以整理
+,v.  可以於
 ,vq  可以是
 ,vf  可以有
 ,vm  可以用
@@ -10051,6 +10104,7 @@ o,op 叮囑
 ,iz  可惜了
 ,o'g 可愛
 ,oix 可憐
+,i.q 可憐的是
 ,f.  可成立
 ,j/  可提告
 ,oq, 可是
@@ -10093,6 +10147,7 @@ sews 台北榮總
 sevn 台北道場
 sea  台北館
 sotm 台南
+stiy 台南上來
 st.  台南市
 soym 台商
 so,a 台大
@@ -10107,6 +10162,7 @@ s;a  台灣人
 s;nc 台灣地區
 s;w  台灣尚
 s;wz 台灣尚勇
+s;.. 台灣旅遊
 s;q  台灣是
 s;ye 台灣棒球
 s;k  台灣籍
@@ -10124,6 +10180,7 @@ sn.  台胞證
 so./ 台裔
 sorq 台西
 soan 台鐵
+sabv 台鐵隧道
 sg,y 台電大樓
 s,i  台面上
 sot' 台韓
@@ -10455,6 +10512,7 @@ ooi, 品項
 oami 哄人開心
 ohe/ 哄騙
 oaoa 哈哈
+oooo 哈哈哈哈
 oaoz 哈囉
 orig 員工
 oi.  員工證
@@ -10464,6 +10522,7 @@ o,/  哪一種
 o,/a 哪一種人
 ode\ 哪些
 odya 哪來
+osi  哪幾項
 odi/ 哪怕
 od/y 哪種
 odkq 哪裡
@@ -10675,6 +10734,8 @@ qv/y 四季
 q/y  四季桔
 qvds 四強
 q/n  四房型
+qn/  四月份
+qy/p 四樓佛殿
 qvkt 四神
 qnan 四肢發達
 qvi' 四處
@@ -10753,7 +10814,7 @@ ofs/ 因應能力
 o,qy 因果
 oqw/ 因果業力
 o,;' 因次
-o,e\ 因此
+o,e/ 因此
 oepj 因此選擇
 o,vb 因為
 ov,g 因為下雨
@@ -10892,6 +10953,7 @@ f,;  在一次
 f,/  在一段
 f,i  在一處
 f,n  在一起
+fi;  在上海
 f,m  在下週
 fl/v 在乎
 f/g  在乎它
@@ -10905,6 +10967,7 @@ fl/k 在作
 f/y  在修辦
 f/a  在個人
 fhi  在其上
+fvb  在兼職
 fua  在出發
 fejc 在北投區
 fe.  在北方
@@ -10912,6 +10975,7 @@ flso 在台
 fso  在台中
 fse  在台北
 fs;  在台灣
+f'i  在各項
 flod 在哪
 wwhr 在哪裡呀？
 fyn  在商城
@@ -10928,6 +10992,7 @@ fxy  在學校
 fxd  在學習
 fg/  在客戶
 flg, 在家
+fgo  在家中
 fgi/ 在家工作
 fgk  在家裡
 fi/i 在工作上
@@ -10948,7 +11013,7 @@ fqi  在晚上
 fan  在會場
 fy/  在校生
 fws  在榮總
-fle\ 在此
+fle/ 在此
 fe.v 在此之前
 f;z  在溝通
 fei  在班上
@@ -10957,11 +11022,13 @@ fgnq 在當月時
 fym  在相同
 fzu  在睡覺
 ffg  在研究
+f/s  在系統
 fvo  在美國
 fni  在考慮
 fnu  在臉書
 f/d  在自己
 fie  在處理
+f.,  在裏面
 f.g  在課堂
 fbi  在身上
 fb'  在身外
@@ -11054,7 +11121,7 @@ ni\i 型式
 nisi 型態
 nio, 型號
 nff, 垢病
-nq/. 埋伏
+nq/a 埋伏
 nq;' 埋沒
 nqhk 埋藏
 nf.t 城市
@@ -11131,6 +11198,7 @@ n/o  報佛號
 n/y  報佳音
 nv/r 報價
 nv,s 報到
+n,gq 報到完畢
 nv'. 報名
 nv/n 報告
 nvvb 報導
@@ -11147,6 +11215,7 @@ nvvb 報道
 nvri 報酬
 nr.  報酬率
 nvaw 報銷
+nqhd 場勘
 nqnd 場地
 nqnd 場均
 nq/p 場所
@@ -11336,6 +11405,7 @@ n,yr 壽桃
 mmth 多媒體理論
 'xd  多學習
 '.g, 多寡
+'wi  多小心
 '.w/ 多少
 'wa  多少人
 'wjf 多少折磨
@@ -11343,6 +11413,7 @@ mmth 多媒體理論
 'p;  多層次
 'ps  多層級
 '.hg 多帶
+'ni  多幫忙
 '.kj 多年
 'ksw 多年經營
 '.ix 多心
@@ -11400,6 +11471,7 @@ mmth 多媒體理論
 hzol 夢中
 hz,s 夢到
 hzsd 夢幻
+hsw; 夢幻對決
 hskn 夢幻祕境
 hzyz 夢想
 hzgo 夢露
@@ -11418,6 +11490,7 @@ q//  夥伴們
 ,azh 大典
 ,a,s 大到
 ,/q  大力量
+,i'. 大功德主
 ,//  大動作
 ,se  大台北
 ,ano 大吉
@@ -11783,6 +11856,7 @@ aj,j 奇才
 ajkn 奇特
 asan 奇經八脈
 ajs' 奇緣
+ajhb 奇葩
 aj.r 奇譚
 ajoj 奇蹟
 ae/j 奈何
@@ -11835,6 +11909,7 @@ xxg  女學霸
 xni/ 女性
 xn./ 女方
 xnq/ 女星
+xnf  女朋友
 xnyh 女權
 x;o  女演員
 xnkf 女版
@@ -11885,6 +11960,7 @@ x/q  好像是
 x/f  好像有
 x/;f 好像沒有
 x/k; 好像無法
+irlv 好像無關？
 xijh 好劇推薦
 x'b  好危險
 xxx  好又好
@@ -11975,6 +12051,7 @@ xo/j 如何
 x//  如何作
 x/vv 如何判斷
 x/n  如何去
+hwdl 如何因應？
 x/f  如何在
 x/k  如何將
 x/jf 如何推廣
@@ -11996,7 +12073,7 @@ xohn 如期
 xoqy 如果
 xqq, 如果明天
 xqfa 如果有人
-xoe\ 如此
+xoe/ 如此
 xe;z 如此亮眼
 xeb/ 如此嚴重
 xe,g 如此形容
@@ -12036,6 +12113,7 @@ x'.  妳的
 x.tw 妳的事業
 x./q 妳的生日
 x.kg 妳的笑容
+x.bi 妳的身上
 x.gf 妳的體質
 know 妳知道嗎？
 x'rq 妳要
@@ -12332,6 +12410,7 @@ geve 完美
 gv'j 完美後援
 gfph 宏展
 gfoa 宏恩
+ghzj 宏觀承擔
 geu; 宗凱
 ge/b 宗師
 gen/ 宗教
@@ -12421,6 +12500,7 @@ gaob 家人團聚
 ga'u 家人外出
 g,ne 家具
 g,z, 家務
+gz.  家務的
 go/q 家喻戶曉
 g,on 家園
 g,ny 家境
@@ -12430,10 +12510,12 @@ gpei 家屬悲慟
 g,fe 家庭
 gf/b 家庭和樂
 gfv; 家庭美滿
+gf;; 家庭資源
 g,n/ 家教
 g,.k 家族
 gbk  家樂福
 gfa. 家破人亡
+g,.q 家裏
 g,kq 家裡
 gk,a 家裡一敘
 gkf  家裡有
@@ -12467,12 +12549,15 @@ gaya 寄來
 gy.  寄來的
 ga/. 寄信
 gauu 寄出
+goy  寄回來
+gag/ 寄宿
 ggn  寄宿者
 gay, 寄杯
 gave 寄送
 gv,  寄送到
 gv,  寄送至
 gvgn 寄送過去
+ggn  寄過去
 gi/f 密佈
 g,h' 密切期待
 giny 密境
@@ -12540,10 +12625,12 @@ gtgq 實體
 ggf, 實體店面
 g,,' 寧死不從
 g'vi 審判
+gvhm 審判期間
 g'mo 審問
 g'it 審慎
 g'yq 審查
 g'y. 審核
+gyk. 審核無誤
 g'eq 審理
 ge'  審理後
 g've 審美
@@ -12605,14 +12692,16 @@ k'he 將其
 k'x' 將妳
 kgi  將實情
 k.n  將市場
+k'x  將後學
 kiei 將心比心
 k/.  將您的
 ky;  將想法
 k',j 將才
 kqz  將日子
 k'av 將會
+kyr  將東西
 kyg  將檔案
-k'e\ 將此
+k'e/ 將此
 k;k  將溼氣
 k'vb 將為
 kv/  將為你
@@ -12699,6 +12788,7 @@ wfj  對應表
 wvi  對我
 wiy. 對我來說
 wv/j 對手
+wvjj 對打
 wvj. 對抗
 wjy  對撞機
 wv./ 對方
@@ -12714,7 +12804,7 @@ w.i  對於我
 w./d 對於自己
 wqm  對時間
 wfea 對有些人
-wve\ 對此
+wve/ 對此
 wve\ 對比
 wv;l 對決
 wvqd 對照
@@ -12898,6 +12988,7 @@ tabs 尬聊
 ;.iz 就放心了
 ;n.  就教於
 ;,q, 就是
+;q,y 就是一樣
 ;q/f 就是住在
 ;q/  就是作
 ;q/  就是個
@@ -12981,6 +13072,7 @@ pup\ 屈尺
 punp 屈服
 p,.n 屋主
 p,;o 屋況
+pk,  屋簷下
 p,ea 屋齡
 p,nb 屍塊
 pyz  屏東縣
@@ -13062,6 +13154,7 @@ sktu 巢狀輸出
 iga  工人
 ig/k 工作
 i/i  工作上
+i/o  工作中
 i/ar 工作分配
 i/n  工作坊
 i/./ 工作方向
@@ -13086,6 +13179,7 @@ igqn 工時
 igwv 工業
 iwc  工業區
 iwmn 工業用地
+ig;n 工法
 ig/o 工程
 i//  工程師
 igsp 工級
@@ -13382,6 +13476,7 @@ kkx  年年好
 kjfc 年底
 kjft 年度
 kj's 年後
+kjgx 年數
 kjav 年會
 kjne 年月
 kn/  年月份
@@ -13545,7 +13640,7 @@ f/ay 廣告創意
 ftnq 廣場
 fnk  廣場舞
 ft,a 廣大
-ftj' 廣播
+ftj/ 廣播
 ftyq 廣東
 ft;/ 廣泛
 f;i  廣泛處
@@ -13580,6 +13675,7 @@ ujyn 建樹
 ujyg 建檔
 uj.v 建立
 u.yn 建立模型
+ujki 建築
 ujzt 建置
 uj.y 建言
 uj.r 建設
@@ -13685,6 +13781,7 @@ dtk/ 彌勒祖師
 ,h'q 形象
 ,',/ 形象不佳
 'yje 彩排
+'ysa 彩繪
 'y'p 彩色
 'y,i 彩蛋
 yyfk 彬彬有禮
@@ -13716,7 +13813,7 @@ qb/d 影響自己
 qbg/ 影響運動
 '.'d 彷彿
 'd'q 彼得
-'de\ 彼此
+'de/ 彼此
 'ef; 彼此成就
 'e.' 彼此的愛
 'esg 彼此約定
@@ -13760,6 +13857,7 @@ qbg/ 影響運動
 'z'  很了解
 'z'x 很了解妳
 '/u  很付出
+'aa  很令人
 'q/c 很低
 '/n  很佩服
 '/'  很值得
@@ -13900,9 +13998,11 @@ qbg/ 影響運動
 'xf  後學在
 'xxd 後學學習
 'xg  後學家
+'xgo 後學家中
 'xps 後學已經
 'xu. 後學建議
 'xf  後學有
+'x.  後學的
 'xu' 後學覺得
 'x.' 後學記得
 'xz  後學買
@@ -13984,7 +14084,7 @@ qbg/ 影響運動
 'kkn 從年初起
 'aq; 從影
 'ayg 從旁
-'ae\ 從此
+'ae/ 從此
 'ks/ 從第幾代
 'a,/ 從而
 ',k  從至年
@@ -14174,7 +14274,7 @@ ol.f 忠誠
 olir 忠貞
 ile\ 快些
 ina  快截鍵
-ilj' 快播
+ilj/ 快播
 ilbu 快樂
 oned 快樂一日遊
 ilww 快炒
@@ -14237,6 +14337,8 @@ qnm  思考週
 'uj; 急救
 'u.a 急於
 ';zq 急流勇退
+'umj 急用
+'mq  急用時
 'uhn 急著
 'hm  急著用
 'u.a 急診
@@ -14524,7 +14626,7 @@ fitq 感情世界
 f\yz 感想
 f\f/ 感應
 ffng 感應起電
-f\;l 感染
+f\;\ 感染
 f;/  感染力
 f;kk 感染管制
 f\;b 感激
@@ -14566,6 +14668,7 @@ vsee 慈悲
 venj 慈悲喜捨
 vei  慈悲心
 vef/ 慈悲愿力
+veje 慈悲指示
 vejt 慈悲撥轉
 wsdm 慈悲與智慧
 vvhh 慈慧菩薩
@@ -14734,6 +14837,7 @@ fsb  成績單
 fsq  成績是
 fdzr 成見
 fd.e 成語
+f.'z 成語辭典
 f.y  成這樣
 fdvb 成道
 fde, 成長
@@ -14741,7 +14845,9 @@ fet  成長史
 feya 成長機會
 fe.  成長率
 fenn 成長趨勢
+fe.y 成長這樣
 feg/ 成長過程
+izq  我ㄧ時
 i,yn 我不想去
 i,q  我不是
 i,a  我不會
@@ -14749,6 +14855,7 @@ i,'  我不行
 i.v  我之前
 id\  我也
 id,a 我也不會
+id,v 我也可以
 idq  我也是
 idf  我也有
 ia,  我今天
@@ -14802,6 +14909,7 @@ ief  我現在
 i.   我的
 i.,/ 我的一生
 i.'n 我的名聲
+i./y 我的手機
 izv  我目前
 ikv  我知道
 i/d  我自己
@@ -14857,6 +14965,7 @@ n/e  戴假髮
 noz  戴口罩
 nqxz 戴好
 /po  戶口
+/'jq 戶外攝影
 /pek 戶政
 /pkj 戶籍
 /p,, 戶頭
@@ -14964,6 +15073,7 @@ nqxz 戴好
 /jkt 手製
 /j.e 手語
 /.i  手遊上
+/jbg 手邊
 ,j,w 才不
 ,,a  才不會
 ,jya 才來
@@ -15130,6 +15240,7 @@ jnf  找朋友
 j\.  找的
 j//  找看看
 j\./ 找誰
+j;x  找資料
 jvy  找道親
 jif  找餐廳
 jfw  找麻煩
@@ -15303,6 +15414,8 @@ j/iq 拍桌
 j/qd 拍照
 jqsa 拍照留念
 j/k  拍片
+jkz  拍片子
+j/.  拍的
 j/nz 拍賣
 jnf/ 拍賣底價
 jnqh 拍賣日期
@@ -15478,9 +15591,9 @@ jfm, 掀開
 juhq 掃墓
 jujh 掃描
 ju'n 掃街
-j/z. 授予
-j//w 授勳
-j/yh 授權
+j'z. 授予
+j'/w 授勳
+j'yh 授權
 ji,i 掉下
 jvti 掉以輕心
 jih; 掉落
@@ -15527,14 +15640,15 @@ jno, 掛號
 jnnt 掛載
 jnab 掛錦
 ja.v 掠人之美
-j/bx 採取
-j/ll 採收
-j/mj 採用
-j/sm 採納
-j/.. 採訪
+j'bx 採取
+j'll 採收
+j'mj 採用
+j'sm 採納
+j'.. 採訪
 j.g  採訪過
-j/zr 採買
-j/rh 採購
+j'zr 採買
+j'rh 採購
+jghd 探勘
 jggi 探密
 jgui 探尋
 jgc' 探望
@@ -15613,7 +15727,7 @@ j/ph 推展
 j/ft 推廣
 j/a; 推拿
 j/ji 推掉
-j/j' 推播
+j/j/ 推播
 jjf/ 推播廣告
 jjzk 推播通知
 j/;m 推敲
@@ -15692,6 +15806,7 @@ j/gq 插電
 jg'  插電後
 j/vi 插點
 jqtr 揚帆
+jq;j 揚清
 jpok 揚眉吐氣
 je,n 揚長而去
 j'/o 換個
@@ -15804,6 +15919,7 @@ ja/t 撥動
 j/id 撥動心弦
 jqm  撥時間
 jagv 撥空
+jgsd 撥空參加
 jatt 撥轉
 jg.  撥電話
 jaa  撩人
@@ -15813,12 +15929,12 @@ jk'z 撫觸
 jkva 撫養
 jvay 撫養父親
 jj/t 撬動
-j'uu 播出
+j/uu 播出
 ju'  播出後
-j'nv 播報
-j'.k 播放
+j/nv 播報
+j/.k 播放
 j.b  播放器
-j'/y 播種
+j//y 播種
 jpgu 撰寫
 jtk  撲克牌
 jw/m 撲向
@@ -15846,6 +15962,7 @@ jo/k 操作
 jowg 操勞
 jogj 操守
 jojn 操持
+jjse 操持經理
 jojg 操控
 joir 操盤
 ji/  操盤手
@@ -15869,7 +15986,7 @@ jjjh 擦拭抹藥
 jjko 擦拭筆跡
 jia  擬人
 jitz 擬真
-jm;l 擱淺
+jm;\ 擱淺
 jmzt 擱置
 jf.s 擴充
 jf,a 擴大
@@ -15901,6 +16018,7 @@ jbbx 攝取
 jb'g 攝受
 j'z/ 攝受眾生
 jbq; 攝影
+jqau 攝影企劃
 jq/  攝影師
 jay  攝食材
 jeib 攝魂心魄
@@ -15999,6 +16117,7 @@ ibg/ 攻防體系
 .kfl 放在
 .fok 放在哪裡
 .ffk 放在店裡
+.f.k 放在這裡
 .k,a 放大
 .kxz 放好
 .kix 放心
@@ -16099,7 +16218,7 @@ n/vb 教導
 n//b 教師
 n/el 教廷
 n/i  教我
-n/j/ 教授
+n/j' 教授
 n/un 教書
 n/yj 教材
 n/gx 教案
@@ -16125,7 +16244,7 @@ hn/f 散佈
 hnnq 散場
 hn/e 散失
 hn/p 散戶
-hnj' 散播
+hnj/ 散播
 hnew 散步
 heg/ 散步運動
 hnk\ 散氣
@@ -16242,6 +16361,7 @@ gxa\ 數錢
 ./fh 文化底蘊
 ./fn 文化廣場
 .x/d 文句
+.ta  文史館
 .xgz 文字
 .gby 文字陳述
 .xxu 文學
@@ -16305,6 +16425,7 @@ wugu 新北市五股區
 lddr 新北市蘆洲區水湳街53號
 yej  新北投
 yejy 新北投站
+yeqv 新北景點
 yyni 新型
 yynv 新增
 yyaj 新奇
@@ -16340,6 +16461,7 @@ yymb 新聞
 yms  新聞台
 ym/  新聞稿
 yms  新聞網
+ysq  新能量
 yyh/ 新舊
 yhg/ 新舊客戶
 yyhk 新莊
@@ -16349,6 +16471,7 @@ yk'  新視角
 yg/  新賽季
 y/jj 新進提拔
 yvy  新道親
+evil 新邪惡帝國
 yr.  新配方
 yb/. 新陳代謝
 yy'v 新鮮
@@ -16392,6 +16515,7 @@ talk 方便講話嗎？
 ./,/ 方面
 .aq, 於是
 .nq  於月日
+.uso 於群組中
 .gkv 於過年前
 .k/d 施力
 .kig 施工
@@ -16441,6 +16565,8 @@ qvn  日前
 qiz  日劇
 qzz  日子
 qgo  日常
+q\i  日式
+q\uk 日式建築
 q\kk 日式神社
 q's  日後
 qfv  日曆
@@ -16499,6 +16625,7 @@ qn;g 明亮
 qnu/ 明君
 qn,, 明天
 q,,k 明天下午
+q,f  明天在
 q,qi 明天早上
 q,q  明天是
 q,rn 明天要去
@@ -16637,6 +16764,7 @@ q,/' 是您
 q,i  是我
 qi.  是我的
 q,ji 是指
+q,.a 是於
 qqq  是昨日
 qqx  是最好
 q,av 是會
@@ -16644,6 +16772,7 @@ q,fn 是有
 q;f  是沒有
 q,vb 是為
 qvz  是為了
+qk;  是無法
 q,mj 是用
 q,ql 是由
 q,.  是的
@@ -16958,6 +17087,7 @@ q,.  最大的
 q,ey 最大規模
 qb,a 最夯
 q/r  最失敗
+qah  最奇葩
 qbxz 最好
 qxq  最好是
 qgv  最完美
@@ -17024,6 +17154,7 @@ a,a  會不會
 avya 會來
 a/f  會先有
 av,m 會再
+a,i/ 會再上傳
 a,gn 會再過去
 a;,  會冷到
 auf  會出席
@@ -17083,6 +17214,7 @@ avba 會陰
 abg  會陰穴
 agr  會需要
 av,/ 會面
+alv  會順道
 avag 會館
 ne;g 月亮
 nefc 月底
@@ -17105,6 +17237,7 @@ fna  有人
 fa/w 有人代勞
 fas  有人緣
 f/f  有什麼
+fn// 有件
 f//  有任何
 fn/a 有份
 fn/v 有伴
@@ -17132,6 +17265,8 @@ f,s  有可能
 fn'. 有名
 f'kg 有名無實
 fn,w 有否
+foe  有哪些
+whch 有哪些呢？
 fmg  有問過
 fmq  有問題
 fnoj 有啦
@@ -17159,6 +17294,7 @@ fir  有必要
 fnni 有志
 will 有志者事竟成
 fqn  有思考
+f/.  有您的
 fnij 有情
 fia  有情人
 fifv 有情有義
@@ -17186,7 +17322,7 @@ fqq  有時是
 fqm  有時間
 f,d  有更改
 fty  有未來
-fn;l 有染
+fn;\ 有染
 fnys 有機
 fya  有機會
 fyfn 有權有勢
@@ -17318,6 +17454,7 @@ tytq 未來世界
 tyv/ 未來前程
 tybh 未來戰警
 ty./ 未來方向
+tynn 未來趨勢
 t,h  未到期
 tg/v 未審先判
 ty's 未後
@@ -17508,6 +17645,7 @@ nyrk 栽贓
 nrz  栽贓罪
 no;  栽跟斗
 'j,e 桀驁不馴
+yngr 桂冠
 ynyt 桂枝
 ysa  桂綸鎂
 yn/y 桂香
@@ -17530,6 +17668,7 @@ iq,/ 桌面
 ymh/ 桐花
 yhev 桐花步道
 ynzz 桔子
+yny, 桔梗
 ;dxn 梁姐
 ykh/ 梅花
 yhg  梅花數
@@ -17857,23 +17996,24 @@ ezvb 正道
 ezgq 正電
 egh  正電荷
 ez,/ 正面
-e\tt 此事
-e\a  此人
-e\.s 此刻
-e\vn 此前
-e\nd 此地
-e\'. 此外
+e/tt 此事
+e/a  此人
+e/.s 此刻
+e/vn 此前
+e/nd 此地
+e/'. 此外
+ei,  此情形
 e./  此文件
-e\qn 此時
+e/qn 此時
 eyg  此檔案
-e\;' 此次
-e\vb 此為
-e\/j 此生
+e/;' 此次
+e/vb 此為
+e//j 此生
 e/t. 此生難忘
-e\kn 此等
-e\i' 此處
+e/kn 此等
+e/i' 此處
 e'/  此行程
-e\q, 此題
+e/q, 此題
 ew/, 步伐
 ewew 步步
 eef, 步步近逼
@@ -17905,7 +18045,9 @@ f/tx 歷史
 fti  歷史上
 fttt 歷史故事
 ftq/ 歷史時代
+ftkm 歷史簡冊
 ftso 歷史級別
+fte/ 歷史驕傲
 f/pn 歷屆
 f/kj 歷年
 fky  歷年來
@@ -17997,6 +18139,7 @@ k,/  每一段
 k,/  每二個
 koa  每人
 ko/. 每位
+k/n. 每位壇主
 ko/o 每個
 k/a  每個人
 k/ga 每個客人
@@ -18177,6 +18320,7 @@ jy,  水龍頭
 .,.y 永不衰竭
 .,k' 永不褪色
 .j'\ 永久
+./y  永動機
 .j/y 永和
 .jgx 永安
 .g.n 永安市場
@@ -18208,9 +18352,10 @@ aj;q 汆燙
 ;i;t 江湖
 ;di, 池上
 ;dnf 池塘
-;e;l 污染
+;e;\ 污染
 ;efe 污辱
 ;aj' 汰換
+;hjy 汰舊換新
 ;pbx 汲取
 ;bn. 汲取教訓
 ;p;p 汲汲
@@ -18219,6 +18364,7 @@ aj;q 汆燙
 ;lix 決心
 ;lv, 決斷
 ;d,m 決然不同
+;lky 決策
 ;ks/ 決策能力
 ;l'i 決裂
 ;l.v 決議
@@ -18238,6 +18384,8 @@ aj;q 汆燙
 ;'tt 沒事
 ;'a  沒人
 ;/f  沒什麼
+;'ar 沒入
+;'a  沒列入
 ;mq  沒問題
 ;mqz 沒問題了
 ;ok  沒回答
@@ -18246,6 +18394,7 @@ aj;q 汆燙
 ;'ix 沒心
 ;y,  沒想到
 ;ii  沒懷疑
+;'ll 沒收
 ;q;. 沒日沒夜
 ;'fn 沒有
 ;f,s 沒有一絲
@@ -18302,11 +18451,13 @@ aj;q 汆燙
 ;'mj 沒用
 ;/u  沒看出
 ;f,  沒碰面
+;sx  沒結婚
 ;'h; 沒落
 ;';  沒解決
 ;y;  沒辦法
 ;'ah 沒錯
 ;m/  沒關係
+;'gq 沒電
 ;o;d 沖泡
 ;o;/ 沖洗
 ;wjy 沙拉
@@ -18443,10 +18594,12 @@ el'  泰順街
 ;/a\ 洗錢
 ;/,, 洗頭
 ;,e  洗頭髮
+;yf  洛杉磯
 ;'kt 洛神
 ;kh  洛神花
 ;m;s 洞澈
 ;mug 洞覺
+;;fo 津津有味
 ;qgi 洩密
 ;qqd 洩男
 ;iba 洲際
@@ -18590,6 +18743,7 @@ mrne 海軍陸戰隊
 ;y;y 淋漓
 ;;u, 淋漓盡致
 ;tve 淒美
+;d;a 淘汰
 ;/zq 淚眼
 ;/.b 淚謝
 ;wz  淡了
@@ -18657,7 +18811,7 @@ mrne 海軍陸戰隊
 ;;n  深深地
 ;;a/ 深深欽佩
 ;g;k 深淵
-;g;l 深淺
+;g;\ 深淺
 ;gka 深知
 ;gjy 深耕
 ;gi' 深處
@@ -18669,10 +18823,11 @@ mrne 海軍陸戰隊
 ;qa, 混合
 ;qbq 混戰
 ;q;x 混淆
+;q;z 混濁
 ;a;' 淹沒
-;lbs 淺聊
-;lh; 淺薄
-;lqs 淺顯
+;\bs 淺聊
+;\h; 淺薄
+;\qs 淺顯
 ;/d/ 添加
 ;dk  添加物
 ;,'  清一色
@@ -18745,7 +18900,7 @@ unce 測不準原理
 ;ho  港口
 ;h\i 港式
 ;\ah 港式飲茶
-;g;l 渲染
+;g;\ 渲染
 ;;/  渲染力
 ;;o  渲染圖
 ;;u  渲染畫
@@ -18898,7 +19053,7 @@ i;ll 潁川
 ;'/j 潘生
 ;se  潘經理
 ;./  潘講師
-;v/. 潛伏
+;v/a 潛伏
 ;v/d 潛力
 ;vfl 潛在
 ;y.  潛意識
@@ -18928,6 +19083,7 @@ i;ll 潁川
 ;bfh 激勵
 ;bnv 激增
 ;bij 激情
+;b;z 激濁
 ;;j; 激濁揚清
 ;b'i 激烈
 ;'g/ 激烈運動
@@ -18989,6 +19145,7 @@ sskg 災禍
 sst/ 災難
 w'tt 炊事
 wt.f 炊事主廚
+w,pq 炎夏避暑
 wwn\ 炎熱
 wtzz 炎黃子孫
 ww/k 炒作
@@ -19015,6 +19172,7 @@ vzv' 為了以後
 vzr  為了要
 vz'; 為了解決
 v/f  為什麼
+why  為什麼呢？
 vb/d 為他
 v/a  為他人
 vb/j 為何
@@ -19031,7 +19189,7 @@ vbq, 為是
 vbwg 為榮
 vbbu 為樂
 vevc 為正為邪
-vbe\ 為此
+vbe/ 為此
 vb;e 為準
 v/;  為生活
 vbqd 為男
@@ -19092,6 +19250,7 @@ kjfn 無摺存款
 khyx 無效
 kyk. 無效社交
 khym 無敵
+kyvq 無敵美景
 khgx 無數
 kga  無數人
 khqn 無明
@@ -19099,7 +19258,7 @@ khc' 無望
 khhn 無期
 khyz 無極
 kyno 無極老母
-khe\ 無此
+khe/ 無此
 keax 無此分類
 khj, 無毒
 kjfy 無毒有機
@@ -19110,6 +19269,7 @@ k;,n 無法下載
 k;/  無法像
 k;mb 無法刪除
 k;ss 無法參與
+k;,j 無法平靜
 k;z' 無法承受
 k;j' 無法持久
 k;yn 無法新增
@@ -19169,6 +19329,7 @@ khmq 無間
 khms 無關
 khbq 無限
 kbad 無限公司
+kbk  無限制
 kboo 無限唏噓
 kbt. 無限暢遊
 khba 無際
@@ -19238,6 +19399,8 @@ s./  熊講師
 ;\sy 熟練
 ;sf  熟練度
 ;\.y 熟識
+wdwd 熠熠
+ww/w 熠熠生輝
 jk./ 熬夜
 jkfd 熬成
 jkn/ 熬煮
@@ -19392,6 +19555,7 @@ cjeq 牙齦
 /jed 牛馬
 spge 牟尼寶珠
 kjmi 牡丹
+kmn  牡丹走
 kjtf 牡蠣
 g/ot 牢固
 g/z. 牢獄
@@ -19531,11 +19695,13 @@ zh'y 獲悉
 zhk' 獲獎
 zhad 獲頒
 zsaj 獵奇
-zsu, 獵艷
+zsu; 獵艷
 i,/h 獻供
 i/q  獻供果
+i/k  獻供禮
 iu/d 獻出自己
 ii/  獻心香
+iss/ 獻結緣香
 i,bj 獻身
 iag  獻金案
 i,/y 獻香
@@ -19742,6 +19908,7 @@ hvfy 甚麼
 /ao  生命中
 /a// 生命價值
 /as  生命線
+/job 生啤
 /jnd 生地
 /jfl 生存
 /zz  生孩子
@@ -19749,6 +19916,7 @@ hvfy 甚麼
 /jyq 生意
 /jsi 生態
 /sao 生態公園
+/sfv 生態友善
 /s;; 生態資源
 /sbv 生態隧道
 /jfd 生成
@@ -19788,6 +19956,7 @@ lvdt 生死兩茫茫
 /jhe 生薑
 /jnp 生起
 /joe 生路
+/jwg 生輝
 /jfe 生辰
 /fag 生辰八字
 /jcr 生醫
@@ -19841,7 +20010,7 @@ mj/j 用手
 mjji 用掉
 mj.a 用於
 mqi  用晚餐
-mje\ 用此
+mje/ 用此
 mj;n 用法
 m/a  用生命
 mjqh 用畢
@@ -20073,8 +20242,10 @@ fzht 痛苦
 fofk 痼疾
 f./k 瘀傷
 f.j, 瘀青
+frz  瘋了
 frax 瘋爽
 frze 瘋狂
+ffff 瘋瘋癲癲
 fbma 瘜肉
 fqfr 瘟疫
 f,y  瘦下來
@@ -20089,6 +20260,8 @@ fsn  癌細胞
 fohb 癌藥
 fojf 癌逝
 faa, 癒合
+fiix 癡心
+fixl 癡迷
 fuz  癮君子
 fb,, 癮頭
 ftf' 癱瘓
@@ -20143,6 +20316,7 @@ a/ti 發生事情
 a/mq 發生問題
 a/f  發生在
 a/.  發生率
+a/.  發生的
 hppn 發生過嗎？
 adf, 發病
 adfr 發瘋
@@ -20243,6 +20417,7 @@ mlln 百萬分之一
 .qz  的日子
 .q,  的是
 .q/  的時候
+.yz  的樣子
 .fg  的確
 .fq  的確是
 .k/  的福利
@@ -20354,7 +20529,7 @@ tjgy 直接過來
 tjgn 直接過去
 tnj/ 直推
 tnj/ 直插
-tnj' 直播
+tnj/ 直播
 tjo  直播中
 tj,s 直播平台
 tn.s 直率
@@ -20587,6 +20762,7 @@ z/vi 眾生導航
 z/.  眾生的
 z/.h 眾生的苦
 zzzu 睏眠睡覺
+z,zz 睜大眼睛
 z'zq 睜眼
 zmz  睜開眼
 z,g/ 睡不安穩
@@ -20652,6 +20828,7 @@ k;k; 短短
 k;/n 短租
 k;sb 短線
 k;i' 短處
+k;kf 短褲
 k;kz 短視
 k/a; 矮凳
 k/ez 矯正
@@ -20759,6 +20936,7 @@ fyay 磨鍊
 f/;' 礁溪
 f;aa 礁溪會館
 fitt 礙事
+ffig 礦工
 fbj  礦泉水
 ewf, 示威
 evzi 示導見性
@@ -20865,6 +21043,8 @@ kb;' 禪淨
 kq/v 禮儀
 kqve 禮券
 kqoo 禮品
+kqgo 禮堂
+kgi/ 禮堂獻供
 kq/j 禮拜
 kqy\ 禮棧
 kqkd 禮物
@@ -20946,6 +21126,7 @@ kn/n 禱告
 /w'u 稍微
 /wfn 稍有
 /wkn 稍等
+/k/  稍等候
 .b/n 稟告
 .bi/ 稟性
 .bre 稟賦
@@ -21241,6 +21422,7 @@ kty, 範本
 kbpp 篩選
 kmal 簡介
 km/, 簡便
+kmmh 簡冊
 km// 簡化
 kmtx 簡史
 kmbq 簡單
@@ -21285,7 +21467,7 @@ xs,  粉絲頁
 xyzz 粒子
 xn/t 粗估
 xnix 粗心
-xn;l 粗淺
+xn;\ 粗淺
 xnq' 粗略
 xnff 粗礪
 xh;a 粗茶淡飯
@@ -21293,6 +21475,7 @@ xn;g 粗豪
 xnob 粗鄙
 xnqn 粗野
 b'.e 粵語
+xgzz 粽子
 xj/d 精力
 xjoo 精品
 xjxw 精妙
@@ -21479,6 +21662,7 @@ s'.a 終於
 s.yz 終於來了
 s'yz 終極
 s'ii 終止
+s'g\ 終究
 s'sn 終結
 ssn  終結者
 s'sn 終能
@@ -21528,6 +21712,7 @@ snkz 結算
 skz  結算了
 ssqq 結結巴巴
 sns' 結緣
+ss/  結緣香
 snsb 結繩
 sn.a 結論
 sn.y 結識
@@ -21573,6 +21758,7 @@ sx/  給她們
 sax' 給妳
 sxo  給妳吃
 s/a  給師父
+sa/' 給您
 s/sn 給您參考
 s/// 給您看看
 sai  給我
@@ -21621,6 +21807,7 @@ s,wg 經營
 swef 經營正確
 swku 經營社群
 s,eq 經理
+se.j 經理主持
 seg  經理室
 seve 經理慈悲
 seqg 經理早安
@@ -21664,6 +21851,8 @@ s/.h 維護
 smsd 綱紀
 smi, 網卡
 smfx 網友
+smoq 網吧
+smod 網咖
 smni 網址
 smqd 網易
 smq; 網景
@@ -21784,6 +21973,7 @@ kkh/ 繁花
 kkkk 繁複
 kk/t 繁重
 kkgq 繁體
+kgo. 繁體中文
 s,/  繃不住
 sasn 繚繞
 snbj 繞射
@@ -21911,7 +22101,7 @@ vb'i 美聯外卡
 veby 美職
 venr 美股
 vena 美臉
-veu, 美艷
+veu; 美艷
 vuat 美艷人妻
 vuwx 美艷少婦
 veht 美蓮
@@ -21966,6 +22156,7 @@ nvvz 翹首以盼
 'ybj 翻身
 'grg 翻雲覆雨
 n,e  老一輩
+n/z  老了
 n/a  老人
 n/ag 老僧入定
 n/as 老公
@@ -22097,6 +22288,7 @@ b.ib 聖誕快樂
 bocx 聖賢
 bc// 聖賢仙佛
 bq// 聘任
+bqun 聘書
 bmao 聘用人員
 bm// 聘用條例
 bxa, 聚合
@@ -22282,6 +22474,7 @@ s/,  能看到
 snsa 能給
 sza  能見人
 szf  能見度
+s''  能解釋
 s.x  能變好
 sn.. 能讓
 sra  能賺錢
@@ -22391,6 +22584,7 @@ fwtr 自來水園區
 /z/i 自修
 //ko 自備物品
 /z/t 自傳
+//\  自傳式
 //j  自傳揭
 /zap 自創
 /aok 自創品牌
@@ -22440,6 +22634,7 @@ fwtr 自來水園區
 /i/f 自性自度
 /i,x 自愧不如
 /zi  自我
+/ias 自我介紹
 /i/v 自我保養
 /i.g 自我充實
 /inm 自我封閉
@@ -22450,7 +22645,7 @@ feel 自我感覺良好
 /zjx 自拔
 /z.k 自旋
 /zfn 自有
-/ze\ 自此
+/ze/ 自此
 /zxr 自殺
 /,'k 自求多福
 /zda 自然
@@ -22473,6 +22668,7 @@ feel 自我感覺良好
 /'mb 自行刪除
 /'n, 自行栽切
 /'t  自行車
+/'tv 自行車道
 /'qu 自行退出
 /zkt 自製
 /zug 自覺
@@ -22525,6 +22721,7 @@ si/  與我們
 sq// 與時俱進
 suav 與會
 sqm  與果肉
+ske  與管理
 sae  與鋼琴
 mua/ 興奮
 muuj 興建
@@ -22590,6 +22787,8 @@ tqt/ 艱難
 'p/s 色系
 'pj, 色素
 'p./ 色誘
+u;ve 艷羨
+uv,p 艷羨不已
 hqy  艾里森
 h.hq 芒草
 huu  芝山岩
@@ -22757,6 +22956,8 @@ hqqn 萬里
 hqt/ 萬難
 h;,i 落下
 hh,f 落井下石
+h;ar 落入
+habb 落入陷阱
 h;nd 落地
 hng  落地窗
 h;gh 落寞
@@ -22801,6 +23002,8 @@ hb/. 蒐集
 h/g  蒐集家
 hgfd 蒙塵
 hgww 蒙敝
+hg;q 蒙混
+h;gm 蒙混過關
 hgzq 蒙眼
 hgve 蒙羞
 h;ck 蒞臨
@@ -22814,6 +23017,7 @@ h;g/ 蓄滿電力
 hnzz 蓋子
 hnhs 蓋茲
 hngo 蓋過
+hh/w 蓬蓽生輝
 htzz 蓮子
 hth/ 蓮花
 hhs  蓮華經
@@ -22846,7 +23050,7 @@ hy;' 薪資
 h/d; 薰習
 hdhv 薰習茶道
 hjo  藉口
-hje\ 藉此
+hje/ 藉此
 hjql 藉由
 hqos 藉由因緣
 hjhn 藉著
@@ -22967,14 +23171,18 @@ wwt  螢火蟲
 tq.k 螺旋
 tqsw 螺絲
 tsd  螺絲刀
-n\/. 蟄伏
+n\/a 蟄伏
 ts;q 蠟油
 tswz 蠟燭
 aqaq 蠢蠢
+./u  蠻付出
 .fg  蠻厲害
 .my  蠻同意
 .u'. 蠻多
+.'/u 蠻多付出
+.,.t 蠻夷之邦
 .uxz 蠻好
+.nl  蠻孝順
 /zw, 血光
 /w.s 血光之災
 /zni 血型
@@ -23142,12 +23350,14 @@ kdr/ 被貶
 kdri 被貼
 knuy 被趕出來
 ktj, 被車撞死
+kty  被軟禁
 kdbl 被迫
 kq/  被退休
 kzk  被通知
 kpj  被選擇
 kpjn 被選擇者
 kaw  被針對
+kdms 被關
 n.vi 裁判
 n.g, 裁定
 n.s' 裁縫
@@ -23272,6 +23482,7 @@ roq  要只是
 rqok 要吃
 roh  要吃苦
 rqmo 要問
+rqoq 要喝
 ror  要團購
 rqfl 要在
 rfhi 要在其上
@@ -23423,6 +23634,7 @@ ugga 覺察
 ug'q 覺得
 u',v 覺得可以
 u'o  覺得吧
+feel 覺得如何呢？
 u'q  覺得是
 ugi/ 覺性
 ugie 覺悟
@@ -23518,6 +23730,7 @@ tckt 訂於年月日
 .,mv 訂閱
 .mn  訂閱者
 .tun 計劃
+.tgx 計數
 .tfn 計有
 .tuq 計畫
 ./t  計程車
@@ -23525,6 +23738,7 @@ tckt 訂於年月日
 .ky  計算機
 .t.t 計謀
 .tty 計較
+.tq, 計量
 .\mo 訊問
 .\bi 訊息
 .bq  訊息時
@@ -23549,6 +23763,7 @@ tckt 訂於年月日
 ./fx 託友
 .d,i 記下
 .,y  記下來
+.,z  記不了
 .dtt 記事
 .ty  記事本
 .d/. 記住
@@ -23627,12 +23842,14 @@ tckt 訂於年月日
 .,q, 評量
 .,ac 評鑑
 .nbr 詛咒
+.dzh 詞典
 .dmo 詢問
 .mg  詢問過
 .,,  試一下
 .\/y 試乘
 ./t; 試乘車況
 .uy  試出來
+.ay  試分析
 .\oo 試圖
 .\mj 試用
 .mo  試用品
@@ -23654,10 +23871,12 @@ tckt 訂於年月日
 ./.e 話語
 ..y  話語權
 ./q, 話題
+.,.  該不該
 ..'z 該亂
 ..'. 該名
 .x/  該如何
 .tt  該專輯
+./.. 詳作討論
 .vxo 詳如
 .vgt 詳實
 .vij 詳情
@@ -23787,6 +24006,7 @@ klss 課程內容非常充實詳盡
 .mbi 調息
 .mij 調情
 .mn/ 調教
+.n/j 調教修持
 .myk 調整
 .y,, 調整一下
 .yoo 調整呼吸
@@ -23818,12 +24038,14 @@ klss 課程內容非常充實詳盡
 .j/' 請你
 ./,r 請你不要
 .j/p 請假
+.ay  請分析
 .j,s 請到
 .vc  請前賢
 .sq  請參照
 .oa  請吃飯
 .'/  請各位
 chnt 請各位前賢
+./k  請告知
 .jmo 請問
 .m/n 請問住址
 .m/g 請問住家
@@ -23842,6 +24064,7 @@ sadr 請問自取住址
 .mgr 請問需要
 .or  請回覆
 .jfl 請在
+.f.v 請在之前
 .,g  請大家
 .jxd 請她
 .jxn 請姐
@@ -23923,7 +24146,7 @@ sadr 請問自取住址
 .t.  講幹話
 .hfa 講座
 .h'q 講得
-.hj/ 講授
+.hj' 講授
 .q/  講明白
 .h.  講的
 .hg\ 講究
@@ -23937,6 +24160,7 @@ sadr 請問自取住址
 ../  講講看
 ...  講講話
 .hy. 講述
+.y,, 講述一下
 .hgo 講過
 .hvb 講道
 .g.  講電話
@@ -24131,6 +24355,7 @@ r,w  貝爾
 'rgq 負電
 'r,/ 負面
 r,z, 財務
+rzf/ 財務壓力
 ro;a 財團法人
 r,g, 財富
 rg/q 財富自由
@@ -24182,6 +24407,7 @@ zrg' 買客
 zrg, 買家
 z',  買得到
 z'n  買得起
+zr/. 買房
 z/z  買房子
 zrea 買春
 zyr  買東西
@@ -24230,6 +24456,7 @@ r'rf 賂賄
 ;feq 資歷背景
 ;';g 資深
 ;';f 資源
+;;ke 資源管理
 ;kv  資特普
 ;'yf 資產
 ;'/; 資科
@@ -24406,7 +24633,9 @@ ndnc 超越
 nnga 超越常人
 nny/ 超越想像
 ndgo 超過
+ng,k 超過一年
 nggk 超過數年
+nggg 超過數案
 ndr/ 超酷
 ngj  超震撼
 ny;  超音波
@@ -24509,6 +24738,7 @@ ost. 跨組協調
 oanc 跨越
 onbs 跨越階級
 on;; 跨越鴻溝
+oaov 跨蹲
 oan  跨領域
 oei, 路上
 oiwi 路上小心
@@ -24569,6 +24799,7 @@ b/f  躬自厚
 brhk 躲藏
 bbhh 躲躲藏藏
 brgo 躲過
+bg,n 躲過一劫
 brpy 躲避
 bprn 躲避風聲
 brm, 躲開
@@ -24586,7 +24817,8 @@ tqkg 車禍
 tq/o 車程
 tqyi 車站
 tqo, 車號
-t\nl 軌域
+tq/\ 車貸
+t\n\ 軌域
 t\o. 軌跡
 t\vb 軌道
 gtot 軍團
@@ -24600,6 +24832,7 @@ t'dd 軟弱
 twq  軟爛男
 tfg  軟硬體
 tff; 軟磨硬泡
+t'yy 軟禁
 t'gq 軟體
 tg'w 軟體行業
 tgma 軟體開發
@@ -24687,7 +24920,7 @@ ttj' 轉換
 tjf  轉換成
 tjfy 轉換成本
 tjbn 轉換職場
-ttj' 轉播
+ttj/ 轉播
 tjg  轉播室
 tjm  轉播間
 ttys 轉機
@@ -24971,6 +25204,7 @@ ay,s 途逕
 ./ti 這種事情
 ./i; 這種情況
 .ka  這筆錢
+.uzz 這群孩子
 .ink 這般幸福
 .l.q 這裏
 .lkq 這裡
@@ -24989,6 +25223,7 @@ ay,s 途逕
 .v,  這首歌
 .lfy 這麼
 .f'  這麼多
+.f'a 這麼多人
 .f,  這麼大
 .fxm 這麼好用
 .fi  這麼忙
@@ -25043,6 +25278,7 @@ yaf  速食店
 /f.a 造成誤會
 /ft/ 造成轟動
 /k.  造物主
+/n.. 造訪
 /n.' 造謠
 /ng; 造雨
 'x/n 逢兇化吉
@@ -25223,6 +25459,7 @@ gk'  過年後
 gkhm 過年期間
 gs,  過幾天
 goft 過度
+gfjd 過度擴張
 go'. 過往
 go's 過後
 go'q 過得
@@ -25517,6 +25754,7 @@ dxq  那又是
 dj;, 那就
 d;q  那就是
 d;r  那就要
+d;l/ 那就順便
 djq, 那是
 dqi  那是我
 djqn 那時
@@ -25537,6 +25775,7 @@ df'  那麼多
 dfgq 那麼容易
 dfv  那麼差
 cja  邪人
+c,yo 邪惡帝國
 /eyz 邱毅
 yxco 郊區
 yx'. 郊外
@@ -25559,6 +25798,7 @@ y,bv 部隊
 /tpd 郵局
 /td; 郵戳
 /tky 郵箱
+n,/  都一併
 n,y  都一樣
 n,ny 都不去想
 n,,' 都不太愛
@@ -25607,6 +25847,7 @@ na'  都會很
 naf  都會有
 nau' 都會覺得
 n/fn 都有
+nfi  都有上
 nf,s 都有可能
 nfg  都有寫
 nfjt 都有擦乾
@@ -25676,6 +25917,7 @@ c//s 醫保系統
 crz, 醫務
 crop 醫囑
 crxu 醫學
+cx.. 醫學論文
 cxy  醫學部
 cr/b 醫師
 creq 醫理
@@ -25704,6 +25946,7 @@ r;/k 釀酒季節
 'zuu 釋出
 'zi. 釋懷
 'z.k 釋放
+'.uy 釋放出來
 'zv/ 釋義
 qn/o 里程
 q/g  里程數
@@ -25726,7 +25969,7 @@ qne, 里長
 /tja 重拾
 /tjf 重振
 /jsg 重振綱常
-/tj' 重播
+/tj/ 重播
 /ttr 重擊
 /tj' 重擔
 /tyk 重整
@@ -25756,6 +25999,7 @@ qne, 里長
 /rg/ 重要客戶
 /ri  重要性
 /rq. 重要時刻
+/ree 重要步驟
 /rst 重要線索
 /r.a 重要證人
 /trq 重覆
@@ -25917,6 +26161,7 @@ aeh  鏈球菌
 ay/' 鏡像
 aym  鏡新聞
 atae 鏡轉全球
+a,/q 鏡面倒影
 ay,, 鏡頭
 ayvi 鐘點
 avd  鐘點費
@@ -26030,7 +26275,7 @@ m,jj 開打
 m,jf 開拓
 mj.n 開拓市場
 m,jn 開掛
-m,j/ 開採
+m,j' 開採
 mjf; 開採石油
 m,tx 開支
 m,.k 開放
@@ -26137,6 +26382,7 @@ maq. 關鍵時刻
 msm  關門
 msm, 關閉
 mmjn 關閉水塔
+pass 關關難過關關過
 mby. 闡述
 mbvb 闡道
 b.kt 防制
@@ -26217,6 +26463,7 @@ bge, 院長
 btg; 陣容
 baz  除了
 bzf  除了在
+ba'. 除名
 ba'r 除役
 be.' 除此之外
 ba;, 除溼
@@ -26250,6 +26497,7 @@ babe 陰騭
 bk't 陳年往事
 byij 陳情
 byfd 陳皮
+bse  陳經理
 bmw  陳興煉
 byy. 陳述
 bvq  陳道明
@@ -26292,6 +26540,7 @@ boh; 隕落
 byfi 障礙
 byhw 障蔽
 bvvb 隧道
+bv;. 隧道漫遊
 bf/n 隨侍
 bf/, 隨便
 bf's 隨後
@@ -26640,7 +26889,7 @@ ern  非要去
 ,//m 面向
 ,/zz 面子
 ,/wv 面對
-,/j/ 面授
+,/j' 面授
 ,/zm 面目
 ,zae 面目全非
 ,//, 面積
@@ -26744,7 +26993,7 @@ d,vb 頗為
 az/n 領先
 azbx 領取
 az'g 領受
-aznl 領域
+azn\ 領域
 azvb 領導
 ava  領導人
 av,s 領導才能
@@ -26968,7 +27217,7 @@ hkij 驚情
 hi/j 驚慌失措
 hv,a 驚為天人
 hkqh 驚異
-hku, 驚艷
+hku; 驚艷
 hkn\ 驚蟄
 hkug 驚覺
 hk.c 驚訝
@@ -27025,6 +27274,7 @@ gqbb 體魄
 ;ps  高層級
 ;mu  高山
 ;uf  高山症
+;ks  高年級
 ;mft 高度
 ;fn  高度地
 ;f.j 高度讚揚
@@ -27135,6 +27385,7 @@ v.vx 麗京美學
 ljmx 麗京美學官網
 ttr  麥克風
 fyw, 麻煩
+fw/  麻煩你
 qnab 黑八
 qn// 黑化
 qnow 黑哨
