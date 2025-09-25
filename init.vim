@@ -1,25 +1,44 @@
+set rtp+=~\AppData\Local\nvim\lua
+let g:UltiSnipsSnippetDirectories=['~/.config/nvim/UltiSnips']
+set cursorline
 "py3 vim.vars['python3_host_prog']=vim.env.VIRTUAL_ENV+"/bin/python"
 "py3 vimVars=vim.funcs.environ()
+"let g:VIRTUAL_ENV='C:\Users\Josh Lu\AppData\Local\Microsoft\WindowsApps\'
 "py3 vim.vars['python3_host_prog']=vimVars['VIRTUAL_ENV']+'/bin/python'
-let g:python3_host_prog=getenv('VIRTUAL_ENV').'/bin/python'
-"py3 vim.exec_lua("")
+"let g:python3_host_prog='C:\Users\Josh Lu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\Local\pypoetry\Cache\virtualenvs\vwrstock-JBhTbBxP-py3.13\Scripts\
+"let g:python3_host_prog='C:\Users\Josh Lu\AppData\Local\Microsoft\WindowsApps\python.exe'
+"let g:python3_host_prog='C:\Users\Josh Lu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\Local\pypoetry\Cache\virtualenvs\vwrstock-JBhTbBxP-py3.13\Scripts\python.exe'
+"let g:python3_host_prog='C:\Users\user\AppData\Local\Microsoft\WindowsApps\python.exe'
+"let g:VIRTUAL_ENV='C:\Users\Josh Lu\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\Local\pypoetry\Cache\virtualenvs\vwrstock-JBhTbBxP-py3.13\Scripts'
+"let g:loaded_python3_provider=1
+let g:python3_host_prog='C:\Users\user\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\Local\pypoetry\Cache\virtualenvs\vwrsed-Ah2Wff0v-py3.13\Scripts\python.exe'
+"let g:python3_host_prog=getenv('VIRTUAL_ENV').'/bin/python'
+lua require('paqKEY')
 lua require('PAQs')
+"source ~\.config\nvim\lua\paqKey.lua
+"source ~\.config\nvim\lua\PAQs.lua
 "lua require('autocmd2')
-"lua require('paqKEY')
 lua require('settings')
+"source ~\.config\nvim\lua\settings.lua
 "lua require('mouse')
 lua require('status')
+"source ~\.config\nvim\lua\status.lua
 "lua require('ftype')
 "lua require('tabline')
 "lua require('autocmd')
 "lua require('zoom')
 lua require('nvimAutopair')
+"source ~\.config\nvim\lua\nvimAutopair.lua
 "lua require('nthmFtype')
-lua require('initIron')
+"lua require('initIron')
+"source ~\.config\nvim\lua\initIron.lua
 if exists("g:neovide")
   lua require('neovide')
 endif
-lua require('replUtil')
+"lua require('replUtil')
+"lua require('neovide')
+"source ~\.config\nvim\lua\replUtil.lua
+"source ~\neovide.lua
 "py3<<EOF
 "  'vim.g.python3_host_prog = vim.env.VIRTUAL_ENV.."/bin/python"'
 "  --require'nvimAutopair'
