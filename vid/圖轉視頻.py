@@ -318,7 +318,7 @@ def main():
     cols = st.columns(min(4, len(uploaded_files)))
     for i, uploaded_file in enumerate(uploaded_files):
         with cols[i % 4]:
-            st.image(uploaded_file, use_column_width=True)
+            st.image(uploaded_file, use_container_width=True)
             st.caption(f"圖片 {i+1}")
     
     # 第二步：設置
