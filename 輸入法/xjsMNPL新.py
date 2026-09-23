@@ -59,6 +59,7 @@ def mnplXJS(fname):
                 if len_chn>6: Eng+=eng.decode('utf-8')[0].encode('utf-8')#eng[0].decode('utf-8')
                 else: Eng+=eng[:2]#.decode('utf-8')
               #print(Eng)
+            if Chn.isascii(): Eng=Temp[Chn]
             space=b' '*(5-len(Eng))
             phrase=Eng+space+Chn+carriage
             #print(phrase.decode('utf-8'))
